@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>IDEA SCRAPPER — Tren & Bisnis</title>
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>">
+</head>
+<body>
+  <header>
+    <div class="brand">
+      <div class="logo">📡</div>
+      <div>
+        <h1>IDEA SCRAPPER</h1>
+        <p class="sub">Trend &amp; Business Intelligence</p>
+      </div>
+    </div>
+    <div class="badge" id="liveBadge">● LIVE</div>
+  </header>
+
+  <main id="views">
+    <section class="view" id="view-home" data-tab="home">
+      <div class="hero">
+        <div class="hero-glow"></div>
+        <p class="hero-kicker" id="heroDate">—</p>
+        <h2 id="heroTitle">Ringkasan Tren Hari Ini</h2>
+        <p class="hero-text" id="heroSummary">Memuat laporan terbaru…</p>
+      </div>
+      <div class="cards">
+        <div class="card" data-goto="top3">
+          <span class="card-ico">🔥</span>
+          <div><h3>Top 3 Tren</h3><p id="miniTop3">—</p></div>
+          <span class="chev">›</span>
+        </div>
+        <div class="card" data-goto="insight">
+          <span class="card-ico">💡</span>
+          <div><h3>Insight Bisnis</h3><p id="miniInsight">—</p></div>
+          <span class="chev">›</span>
+        </div>
+        <div class="card" data-goto="regional">
+          <span class="card-ico">🗺️</span>
+          <div><h3>Regional Indonesia</h3><p id="miniRegional">—</p></div>
+          <span class="chev">›</span>
+        </div>
+        <div class="card" data-goto="product">
+          <span class="card-ico">🚀</span>
+          <div><h3>Produk Rekomendasi</h3><p id="miniProduct">—</p></div>
+          <span class="chev">›</span>
+        </div>
+      </div>
+      <button class="refresh" id="btnRefresh">⟳ Muat ulang data</button>
+      <p class="updated" id="updatedAt">—</p>
+    </section>
+
+    <section class="view" id="view-top3" data-tab="top3">
+      <h2 class="view-title">🔥 Top 3 Tren</h2>
+      <div class="list" id="listTop3"></div>
+    </section>
+
+    <section class="view" id="view-insight" data-tab="insight">
+      <h2 class="view-title">💡 Insight Hari Ini</h2>
+      <div class="list" id="listInsight"></div>
+    </section>
+
+    <section class="view" id="view-regional" data-tab="regional">
+      <h2 class="view-title">🗺️ Regional Indonesia</h2>
+      <div class="list" id="listRegional"></div>
+    </section>
+
+    <section class="view" id="view-product" data-tab="product">
+      <h2 class="view-title">🚀 Produk Rekomendasi</h2>
+      <div class="list" id="listProduct"></div>
+    </section>
+
+    <section class="view" id="view-memory" data-tab="memory">
+      <h2 class="view-title">🧠 Trend Memory</h2>
+      <div class="list" id="listMemory"></div>
+    </section>
+  </main>
+
+  <nav class="tabbar" id="tabbar">
+    <button class="tab active" data-tab="home"><span>🏠</span>Ringkas</button>
+    <button class="tab" data-tab="top3"><span>🔥</span>Top 3</button>
+    <button class="tab" data-tab="insight"><span>💡</span>Insight</button>
+    <button class="tab" data-tab="regional"><span>🗺️</span>Daerah</button>
+    <button class="tab" data-tab="product"><span>🚀</span>Produk</button>
+    <button class="tab" data-tab="memory"><span>🧠</span>Memory</button>
+  </nav>
+
+  <script src="app.js"></script>
+</body>
+</html>

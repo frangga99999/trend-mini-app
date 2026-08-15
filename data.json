@@ -1,0 +1,83 @@
+{
+  "data": {
+    "updated_at": "2026-08-15T14:50:13+07:00",
+    "summary_title": "Ringkasan Tren Hari Ini",
+    "summary": "Laporan harian terakhir tercatat: 7 tren dalam trend memory. Kategori dominan: e-commerce. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "top3": [],
+    "insights": [],
+    "regions": [],
+    "products": [],
+    "memory": {
+      "stats": {
+        "total": 7,
+        "dominant": "e-commerce",
+        "repeating": []
+      },
+      "entries": [
+        {
+          "trend": "TikTok Shop Indonesia momentum cooling (32.4% GMV share May 2026, turun dari puncak 37.8%) + enforcement fulfillment ketat + uji coba Shop Plus membership",
+          "category": "e-commerce",
+          "date": "2026-08-15",
+          "score": "88",
+          "stage": "Strong (cooling)",
+          "region": "Nasional",
+          "product": "Seller ops/compliance tools"
+        },
+        {
+          "trend": "Adopsi AI workforce Indonesia breakout: 69% pekerja pakai AI (PwC), 33% forefront (Microsoft WTI), durasi pakai AI +314% ke 2,45M jam (Katadata)",
+          "category": "AI adoption",
+          "date": "2026-08-15",
+          "score": "90",
+          "stage": "Breakout",
+          "region": "Nasional",
+          "product": "AI training UMKM, workflow AI"
+        },
+        {
+          "trend": "QRIS tumbuh 111,94% YoY Q1 2026, 14,39 miliar transaksi digital",
+          "category": "fintech/payments",
+          "date": "2026-08-15",
+          "score": "85",
+          "stage": "Growing",
+          "region": "Nasional",
+          "product": "Auto-reconciliation, cashflow tools UMKM"
+        },
+        {
+          "trend": "Funding AI global: $510M H1 2026 (70%+ dari AI Q2), 88% ke US; enterprise agent 58% kapital; dev tooling agent $420M",
+          "category": "AI funding",
+          "date": "2026-08-15",
+          "score": "80",
+          "stage": "Breakout",
+          "region": "Global",
+          "product": "Applied agent lokal, B2B"
+        },
+        {
+          "trend": "Creator economy: nano/micro influencer 45,5% spend 2026",
+          "category": "creator economy",
+          "date": "2026-08-15",
+          "score": "70",
+          "stage": "Growing",
+          "region": "Global",
+          "product": "Nano-influencer management UMKM"
+        },
+        {
+          "trend": "Pain point UMKM: pembukuan/stok manual Excel-WhatsApp, double input, multi-version files",
+          "category": "social listening",
+          "date": "2026-08-15",
+          "score": "75",
+          "stage": "Growing",
+          "region": "Nasional (Threads/IG)",
+          "product": "AI bookkeeping UMKM"
+        },
+        {
+          "trend": "Surabaya: SSF 3.0 ekosistem startup; Bandung: Techno Park incubator batch 23",
+          "category": "regional",
+          "date": "2026-08-15",
+          "score": "55",
+          "stage": "Growing",
+          "region": "Surabaya, Bandung",
+          "product": "Startup/UMKM enablement"
+        }
+      ]
+    }
+  }
+}
