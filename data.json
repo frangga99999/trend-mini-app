@@ -1,19 +1,73 @@
 {
   "data": {
-    "updated_at": "2026-08-15T14:50:13+07:00",
+    "updated_at": "2026-08-15T17:29:05+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 7 tren dalam trend memory. Kategori dominan: e-commerce. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "summary": "Laporan harian terakhir tercatat: 13 tren dalam trend memory. Kategori dominan: creator economy. Tren yang berulang (indikasi tren sejati): belum ada.",
     "top3": [],
     "insights": [],
     "regions": [],
     "products": [],
     "memory": {
       "stats": {
-        "total": 7,
-        "dominant": "e-commerce",
+        "total": 13,
+        "dominant": "creator economy",
         "repeating": []
       },
       "entries": [
+        {
+          "trend": "Permen UMKM 3/2026: diskon 50% biaya layanan marketplace utk UMK produk lokal, berlaku 17 Jun, sistem SAPA dibuka, verifikasi langsung",
+          "category": "regulasi e-commerce",
+          "date": "2026-08-15",
+          "score": "86",
+          "stage": "Policy live",
+          "region": "Nasional",
+          "product": "Seller enablement, NIB-as-a-service"
+        },
+        {
+          "trend": "QRIS H1 2026: 12,55 miliar transaksi (+100% YoY), target setahun mendekati",
+          "category": "fintech/payments",
+          "date": "2026-08-15",
+          "score": "84",
+          "stage": "Breakout",
+          "region": "Nasional",
+          "product": "Rekonsiliasi multi-channel UMKM"
+        },
+        {
+          "trend": "Creator economy → ownership: 88% community builder monetisasi membership, 48% creator jalan sendiri, komunitas 18.000+ aktif (Circle)",
+          "category": "creator economy",
+          "date": "2026-08-15",
+          "score": "78",
+          "stage": "Growing",
+          "region": "Global/US",
+          "product": "Membership & komunitas berbayar lokal"
+        },
+        {
+          "trend": "Gartner: 40% enterprise apps punya task-specific AI agents akhir 2026 (dari <5% 2025)",
+          "category": "AI agents",
+          "date": "2026-08-15",
+          "score": "82",
+          "stage": "Breakout",
+          "region": "Global",
+          "product": "Agent workflow UMKM/koperasi"
+        },
+        {
+          "trend": "Shopee Live share of order 56% (tertinggi), live shopping jadi andalan UMKM",
+          "category": "e-commerce",
+          "date": "2026-08-15",
+          "score": "74",
+          "stage": "Strong",
+          "region": "Nasional",
+          "product": "Live commerce ops tools"
+        },
+        {
+          "trend": "Yapp + Creatorly+ luncurkan fitur membership/subscription creator Indonesia",
+          "category": "creator economy",
+          "date": "2026-08-15",
+          "score": "65",
+          "stage": "Early",
+          "region": "Nasional",
+          "product": "Local membership platform"
+        },
         {
           "trend": "TikTok Shop Indonesia momentum cooling (32.4% GMV share May 2026, turun dari puncak 37.8%) + enforcement fulfillment ketat + uji coba Shop Plus membership",
           "category": "e-commerce",
