@@ -1,6 +1,6 @@
 {
   "data": {
-    "updated_at": "2026-08-15T17:33:27+07:00",
+    "updated_at": "2026-08-15T17:33:48+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
     "summary": "Laporan harian terakhir tercatat: 13 tren dalam trend memory. Kategori dominan: creator economy. Tren yang berulang (indikasi tren sejati): belum ada.",
     "top3": [
@@ -32,7 +32,68 @@
         "sources": []
       }
     ],
-    "insights": [],
+    "insights": [
+      {
+        "title": "Jasa \"NIB-as-a-Service\" + verifikasi lokal",
+        "what": "Permen 3/2026 syarat mutlak NIB & produk lokal; banyak UMKM di sosmed bingung prosesnya. Target: UMK seller marketplace. Pain: administrasi. Solusi saat ini: daftar manual mandiri,",
+        "pain": "administrasi.",
+        "target": "UMK seller marketplace.",
+        "existing": "daftar manual mandiri, lama.",
+        "opportunity": "layanan paket (NIB + checklist verifikasi + monitor status diskon).",
+        "opportunity_score": "88",
+        "sources": "detikfinance, kompas."
+      },
+      {
+        "title": "Auto-rekonsiliasi QRIS multi-channel",
+        "what": "12,55 miliar transaksi H1; UMKM jualan di Shopee+TikTok+offline, catat manual. Target: UMKM 1-50 karyawan. Pain: double input, saldo beda. Produk: konek QRIS/marketplace → laporan ",
+        "pain": "double input, saldo beda.",
+        "target": "UMKM 1-50 karyawan.",
+        "existing": null,
+        "opportunity": "konek QRIS/marketplace → laporan otomatis.",
+        "opportunity_score": "84",
+        "sources": "fintechnews.id."
+      },
+      {
+        "title": "Membership platform lokal untuk niche komunitas",
+        "what": "tren global ownership, Yapp/Creatorly+ baru mulai; niche lokal (hobi, parenting, food) belum disentuh. Target: creator 10-100K followers. Pain: monetisasi cuma dari endorse. Solusi",
+        "pain": "monetisasi cuma dari endorse.",
+        "target": "creator 10-100K followers.",
+        "existing": "fanbase/Linktree (dangkal).",
+        "opportunity": "SaaS membership dengan QRIS.",
+        "opportunity_score": "78",
+        "sources": "circle.so, Instagram Yapp."
+      },
+      {
+        "title": "AI bookkeeping dari chat WhatsApp",
+        "what": "UMKM catat laporan di WA (kebukti di konten viral). Target: warung/toko tradisional. Pain: manual, salah catat. Produk: bot yang parse chat jualan → laporan. MVP: forward chat ke b",
+        "pain": "manual, salah catat.",
+        "target": "warung/toko tradisional.",
+        "existing": null,
+        "opportunity": "bot yang parse chat jualan → laporan.",
+        "opportunity_score": "80",
+        "sources": "TikTok koharotv, BukuWarung."
+      },
+      {
+        "title": "Ops tools untuk live seller",
+        "what": "Shopee Live share of order 56%; masalah stok & order ngebut saat live. Target: live seller rutin. Pain: stok kosong di tengah live, order kelewat. Produk: dashboard stok real-time ",
+        "pain": "stok kosong di tengah live, order kelewat.",
+        "target": "live seller rutin.",
+        "existing": null,
+        "opportunity": "dashboard stok real-time + auto-close saat habis.",
+        "opportunity_score": "74",
+        "sources": "detikfinance."
+      },
+      {
+        "title": "Agent workflow untuk koperasi digital",
+        "what": "Gartner 40% apps ber-agent; koperasi digital baru lahir dari Hackathon Kemenkop. Target: koperasi & asosiasi UMKM. Pain: admin anggota manual. Produk: agent yang handle iuran, noti",
+        "pain": "admin anggota manual.",
+        "target": "koperasi & asosiasi UMKM.",
+        "existing": null,
+        "opportunity": "agent yang handle iuran, notifikasi, rekap.",
+        "opportunity_score": "70",
+        "sources": "gartner.com, dailysocial.id."
+      }
+    ],
     "regions": [
       {
         "region": "Surabaya",
