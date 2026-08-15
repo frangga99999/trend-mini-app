@@ -1,111 +1,69 @@
 {
   "data": {
-    "updated_at": "2026-08-15T17:33:04+07:00",
+    "updated_at": "2026-08-15T17:33:27+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
     "summary": "Laporan harian terakhir tercatat: 13 tren dalam trend memory. Kategori dominan: creator economy. Tren yang berulang (indikasi tren sejati): belum ada.",
-    "top3": [],
-    "insights": [],
-    "regions": [],
-    "products": [
+    "top3": [
       {
         "title": "Diskon 50% Biaya Layanan Marketplace (Permen UMKM 3/2026)",
-        "score": null,
-        "target": null,
-        "problem": "Skor 86 (estimasi) · Status: Policy live · Global: n/a · Sosmed: ramai, edukasi verifikasi · Indonesia: nasional, efektif 17 Juni 2026, sistem SAPA dibuka · Dae",
-        "solution": null,
-        "mvp": null,
-        "monetization": null,
-        "validation": null,
+        "score": "",
+        "momentum": "Policy live",
+        "global": "n/a",
+        "indonesia": "nasional, efektif 17 Juni 2026, sistem SAPA dibuka",
+        "opportunity": "jasa pengurusan NIB + verifikasi produk lokal, tool kelola dokumen seller. FACT (detikfinance, kompas).",
         "sources": []
       },
       {
         "title": "QRIS Breakout 2026",
-        "score": null,
-        "target": null,
-        "problem": "Skor 84 · Status: Breakout · Global: ASEAN (QRIS antarnegara diluncurkan) · Sosmed: edukasi BI gencar · Indonesia: 12,55 miliar transaksi H1 2026 (+100% YoY, $3",
-        "solution": null,
-        "mvp": null,
-        "monetization": null,
-        "validation": null,
+        "score": "",
+        "momentum": "Breakout",
+        "global": "ASEAN (QRIS antarnegara diluncurkan)",
+        "indonesia": "12,55 miliar transaksi H1 2026 (+100% YoY, $33,5B), volume Q1 +116,43%",
+        "opportunity": "auto-reconciliation + laporan keuangan otomatis dari data QRIS. FACT (fintechnews.id, BI).",
         "sources": []
       },
       {
         "title": "Creator Economy → Ownership & Membership",
-        "score": null,
-        "target": null,
-        "problem": "Skor 78 · Status: Growing · Global: 88% community builder monetisasi membership, 48% creator jalan sendiri, market $200B (2025) tumbuh 22,7% CAGR (Circle) · Sos",
-        "solution": null,
-        "mvp": null,
-        "monetization": null,
-        "validation": null,
+        "score": "",
+        "momentum": "Growing",
+        "global": "88% community builder monetisasi membership, 48% creator jalan sendiri, market $200B (2025) tumbuh 22,7% CAGR (Circle)",
+        "indonesia": "Yapp & Creatorly+ baru rilis fitur membership/subscription",
+        "opportunity": "platform membership lokal, tool monetisasi komunitas. FACT (circle.so, Instagram Yapp).",
+        "sources": []
+      }
+    ],
+    "insights": [],
+    "regions": [
+      {
+        "region": "Surabaya",
+        "trend": "Festival Penjualan Indonesia 2026 + UMKM Center aktif ajar digital marketing — sinyal: kota jadi hub live commerce & pelatihan. Implikasi: produk pelatihan/ops ",
+        "signal": null,
+        "opportunity": null,
         "sources": []
       },
       {
-        "title": "Jasa \"NIB",
-        "score": null,
-        "target": null,
-        "problem": "as-a-Service\" + verifikasi lokal** — Permen 3/2026 syarat mutlak NIB & produk lokal; banyak UMKM di sosmed bingung prosesnya. Target: UMK seller marketplace. Pa",
-        "solution": null,
-        "mvp": null,
-        "monetization": null,
-        "validation": null,
+        "region": "Yogyakarta/Sleman",
+        "trend": "program digitalisasi UMKM masif — \"transaksi, stok, keuangan terintegrasi satu sistem\" jadi narasi resmi (mediacenter.slemankab.go.id). Implikasi: kebutuhan too",
+        "signal": null,
+        "opportunity": null,
         "sources": []
       },
       {
-        "title": "Auto",
-        "score": null,
-        "target": null,
-        "problem": "rekonsiliasi QRIS multi-channel** — 12,55 miliar transaksi H1; UMKM jualan di Shopee+TikTok+offline, catat manual. Target: UMKM 1-50 karyawan. Pain: double inpu",
-        "solution": null,
-        "mvp": null,
-        "monetization": null,
-        "validation": null,
+        "region": "Medan",
+        "trend": "Pemkot dorong digitalisasi UMKM prioritas (Rico Waas) — sinyal: pasar besar tapi tool adopsi masih rendah. Implikasi: edukasi + tool simpel laku duluan. OBSERVE",
+        "signal": null,
+        "opportunity": null,
         "sources": []
       },
       {
-        "title": "Membership platform lokal untuk niche komunitas",
-        "score": null,
-        "target": null,
-        "problem": "tren global ownership, Yapp/Creatorly+ baru mulai; niche lokal (hobi, parenting, food) belum disentuh. Target: creator 10-100K followers. Pain: monetisasi cuma ",
-        "solution": null,
-        "mvp": null,
-        "monetization": null,
-        "validation": null,
+        "region": "Bandung",
+        "trend": "workshop transformasi digital SMEscO (kuota 200) — pemerintah gencar, eksekusi UMKM masih di tahap awal. Implikasi: pendampingan berbayar pasca-workshop. OBSERV",
+        "signal": null,
+        "opportunity": null,
         "sources": []
-      },
-      {
-        "title": "AI bookkeeping dari chat WhatsApp",
-        "score": null,
-        "target": null,
-        "problem": "UMKM catat laporan di WA (kebukti di konten viral). Target: warung/toko tradisional. Pain: manual, salah catat. Produk: bot yang parse chat jualan → laporan. MV",
-        "solution": null,
-        "mvp": null,
-        "monetization": null,
-        "validation": null,
-        "sources": []
-      },
-      {
-        "title": "Ops tools untuk live seller",
-        "score": null,
-        "target": null,
-        "problem": "Shopee Live share of order 56%; masalah stok & order ngebut saat live. Target: live seller rutin. Pain: stok kosong di tengah live, order kelewat. Produk: dashb",
-        "solution": null,
-        "mvp": null,
-        "monetization": null,
-        "validation": null,
-        "sources": []
-      },
-      {
-        "title": "Agent workflow untuk koperasi digital",
-        "score": null,
-        "target": null,
-        "problem": "Gartner 40% apps ber-agent; koperasi digital baru lahir dari Hackathon Kemenkop. Target: koperasi & asosiasi UMKM. Pain: admin anggota manual. Produk: agent yan",
-        "solution": null,
-        "mvp": null,
-        "monetization": null,
-        "validation": null,
-        "sources": []
-      },
+      }
+    ],
+    "products": [
       {
         "title": "NIB",
         "score": null,
