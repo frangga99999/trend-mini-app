@@ -19,6 +19,12 @@
     <div class="badge" id="liveBadge">● LIVE</div>
   </header>
 
+  <div class="searchbar" id="searchbar">
+    <span class="search-ico">🔍</span>
+    <input type="search" id="searchBox" placeholder="Cari tren, kategori, daerah…" autocomplete="off">
+    <button class="clear" id="btnClear" aria-label="hapus">✕</button>
+  </div>
+
   <main id="views">
     <section class="view" id="view-home" data-tab="home">
       <div class="hero">
@@ -26,6 +32,10 @@
         <p class="hero-kicker" id="heroDate">—</p>
         <h2 id="heroTitle">Ringkasan Tren Hari Ini</h2>
         <p class="hero-text" id="heroSummary">Memuat laporan terbaru…</p>
+        <div class="spark" id="sparkWrap" hidden>
+          <span class="spark-label">Momentum tren</span>
+          <svg id="sparkline" width="100%" height="36" viewBox="0 0 300 36" preserveAspectRatio="none"></svg>
+        </div>
       </div>
       <div class="cards">
         <div class="card" data-goto="top3">

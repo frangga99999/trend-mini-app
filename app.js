@@ -7,6 +7,7 @@
   var tg = (window.Telegram && window.Telegram.WebApp) ? window.Telegram.WebApp : null;
   var data = null;
   var currentTab = "home";
+  var query = "";
 
   /* ── Telegram integration ── */
   if (tg) {
@@ -93,6 +94,7 @@
     document.getElementById("miniRegional").textContent = reg.length ? reg.map(function (r) { return r.region; }).slice(0, 2).join(" · ") : "Belum ada";
     document.getElementById("miniProduct").textContent = prod.length ? prod[0].title : "Belum ada";
     document.getElementById("updatedAt").textContent = "Terakhir diperbarui: " + fmtDate(data.updated_at);
+    renderSparkline((data.memory && data.memory.entries) || []);
   }
 
   function renderTop3() {
@@ -186,7 +188,14 @@
       '<p class="lbl">Total tren tercatat: <b>' + esc(stats.total || m.entries ? m.entries.length : 0) + "</b></p>" +
       (stats.dominant ? '<p class="lbl">Kategori dominan: <b>' + esc(stats.dominant) + "</b></p>" : "") +
       (stats.repeating && stats.repeating.length ? '<p class="lbl">Menguat (muncul berulang): <b>' + esc(stats.repeating.join(", ")) + "</b></p>" : "")));
-    (m.entries || []).slice(0, 8).forEach(function (e) {
+    var list = (m.entries || []);
+    if (query) {
+      list = list.filter(function (e) {
+        return [e.trend, e.category, e.region, e.stage, e.product].join(" ").toLowerCase().indexOf(query) !== -1;
+      });
+      if (list.length) box.appendChild(el("div", "item", '<p class="lbl">🔍 ' + list.length + ' hasil untuk "' + esc(query) + '"</p>'));
+    }
+    list.slice(0, 8).forEach(function (e) {
       box.appendChild(el("div", "item",
         '<div class="rank"><h3>' + esc(e.trend) + "</h3>" +
         (e.score ? '<span class="score ' + scoreClass(e.score) + '">' + esc(e.score) + "</span>" : "") + "</div>" +
@@ -194,6 +203,38 @@
         (e.stage ? '<span class="tag">' + esc(e.stage) + "</span>" : "") +
         (e.region ? '<span class="tag">📍 ' + esc(e.region) + "</span>" : "")));
     });
+  }
+
+  function renderSparkline(entries) {
+    var wrap = document.getElementById("sparkWrap");
+    var svg = document.getElementById("sparkline");
+    if (!entries || entries.length < 2) { wrap.hidden = true; return; }
+    var scores = entries.map(function (e) {
+      var s = parseInt(e.score, 10);
+      return isNaN(s) ? null : s;
+    }).filter(function (v) { return v != null; });
+    if (scores.length < 2) { wrap.hidden = true; return; }
+    wrap.hidden = false;
+    var W = 300, H = 36, pad = 4;
+    var min = Math.min.apply(null, scores), max = Math.max.apply(null, scores);
+    var range = (max - min) || 1;
+    var step = W / (scores.length - 1);
+    var pts = scores.map(function (v, i) {
+      var x = i * step;
+      var y = pad + (H - pad * 2) * (1 - (v - min) / range);
+      return [x, y];
+    });
+    var line = pts.map(function (p, i) { return (i ? "L" : "M") + p[0].toFixed(1) + " " + p[1].toFixed(1); }).join(" ");
+    var area = line + " L " + W + " " + H + " L 0 " + H + " Z";
+    var last = pts[pts.length - 1];
+    var gradId = "sparkGrad";
+    svg.innerHTML =
+      '<defs><linearGradient id="' + gradId + '" x1="0" y1="0" x2="0" y2="1">' +
+      '<stop offset="0%" stop-color="#4f8cff" stop-opacity="0.5"/>' +
+      '<stop offset="100%" stop-color="#4f8cff" stop-opacity="0"/></linearGradient></defs>' +
+      '<path class="area" d="' + area + '"/>' +
+      '<path class="line" d="' + line + '"/>' +
+      '<circle class="dot" cx="' + last[0].toFixed(1) + '" cy="' + last[1].toFixed(1) + '" r="3"/>';
   }
 
   var RENDER = {
@@ -248,6 +289,19 @@
   }
 
   document.getElementById("btnRefresh").addEventListener("click", function () { haptic("medium"); loadData(true); });
+
+  var sb = document.getElementById("searchBox");
+  var bc = document.getElementById("btnClear");
+  sb.addEventListener("input", function () {
+    query = sb.value.trim().toLowerCase();
+    bc.hidden = !query;
+    if (currentTab === "memory") renderMemory();
+  });
+  bc.addEventListener("click", function () {
+    sb.value = ""; query = ""; bc.hidden = true;
+    if (currentTab === "memory") renderMemory();
+    haptic("light");
+  });
   if (tg) {
     document.addEventListener("scroll", function () {
       var m = document.querySelector("main");

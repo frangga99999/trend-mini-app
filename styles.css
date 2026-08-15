@@ -139,7 +139,32 @@ main { flex: 1; overflow-y: auto; padding: 14px 14px 90px; scroll-behavior: smoo
   background-size: 200% 100%; animation: shimmer 1.3s infinite; }
 @keyframes shimmer { to { background-position: -200% 0; } }
 
-/* ── Tab bar ────────────────────────── */
+/* ── Search bar ─────────────────────── */
+.searchbar {
+  position: sticky; top: 0; z-index: 19;
+  display: flex; align-items: center; gap: 8px;
+  padding: 8px 14px; background: rgba(15,17,23,0.95);
+  backdrop-filter: blur(10px); border-bottom: 1px solid var(--card-border);
+}
+.search-ico { font-size: 15px; }
+.searchbar input {
+  flex: 1; background: var(--card); border: 1px solid var(--card-border);
+  border-radius: 10px; padding: 9px 12px; color: var(--text);
+  font-size: 13.5px; outline: none;
+}
+.searchbar input:focus { border-color: var(--accent); }
+.searchbar .clear { background: none; border: none; color: var(--muted); font-size: 13px; cursor: pointer; }
+.searchbar .clear[hidden] { display: none; }
+
+/* ── Sparkline ──────────────────────── */
+.spark { margin-top: 12px; }
+.spark-label { font-size: 10px; letter-spacing: 1px; color: var(--muted); text-transform: uppercase; }
+#sparkline { display: block; margin-top: 4px; }
+#sparkline .area { fill: url(#sparkGrad); }
+#sparkline .line { fill: none; stroke: var(--accent); stroke-width: 2; stroke-linecap: round; }
+#sparkline .dot { fill: #fff; stroke: var(--accent); stroke-width: 2; }
+
+/* ── Tabs ──────────────────────────── */
 .tabbar {
   position: fixed; bottom: 0; left: 0; right: 0; z-index: 30;
   display: flex; justify-content: space-around;
