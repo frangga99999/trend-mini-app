@@ -1,6 +1,6 @@
 {
   "data": {
-    "updated_at": "2026-09-10T09:23:27+07:00",
+    "updated_at": "2026-09-10T09:23:35+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
     "summary": "Laporan harian terakhir tercatat: 35 tren dalam trend memory. Kategori dominan: Fintech. Tren yang berulang (indikasi tren sejati): belum ada.",
     "top3": [
@@ -64,7 +64,15 @@
         "sources": null
       }
     ],
-    "regions": [],
+    "regions": [
+      {
+        "region": "Indonesia vs Global",
+        "trend": "- **🌐 Indonesia vs Global:** Global udah geser ke software bayar-sesuai-pakai buat agen AI; di Indonesia rame-nya masih soal platform yang nahan duit penjual + pembukuan manual. Kompetisi alat pembuku",
+        "signal": null,
+        "opportunity": null,
+        "sources": []
+      }
+    ],
     "products": [
       {
         "title": "Asisten \"Pembela Dana Penjual\"",
