@@ -1,138 +1,21 @@
 {
   "data": {
-    "updated_at": "2026-09-10T09:23:35+07:00",
+    "updated_at": "2026-09-16T09:03:07+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 35 tren dalam trend memory. Kategori dominan: Fintech. Tren yang berulang (indikasi tren sejati): belum ada.",
-    "top3": [
-      {
-        "title": "Dana Penjual Marketplace Ketahan",
-        "score": "9",
-        "momentum": "NAIK",
-        "global": null,
-        "indonesia": null,
-        "opportunity": "FACT: DPR panggil Tokopedia & TikTok Shop soal dana seller Rp3T, KPPU selidiki dugaan monopoli; penjual keluh saldo/toko diblokir (ANTARA, detikFinance, Media Konsumen)",
-        "sources": []
-      },
-      {
-        "title": "Agen AI Ubah Cara Jualan Software",
-        "score": "8",
-        "momentum": "NAIK",
-        "global": null,
-        "indonesia": null,
-        "opportunity": "FACT: industri geser ke bayar-sesuai-pakai (usage-based), \"agent economy\" & vertical AI makin rame (InformationWeek, Seeking Alpha, Bessemer)",
-        "sources": []
-      },
-      {
-        "title": "Kredit UMKM (KUR) Jadi Primadona",
-        "score": "7",
-        "momentum": "BARU",
-        "global": null,
-        "indonesia": null,
-        "opportunity": "FACT: pemerintah bidik kredit UMKM Rp1.500T, BPR salurkan KUR bunga 6%, 51% untuk wirausaha perempuan (SWA, ANTARA, Bisnis.com)",
-        "sources": []
-      }
-    ],
-    "insights": [
-      {
-        "title": "Dana Penjual Marketplace Ketahan",
-        "what": "FACT: DPR panggil Tokopedia & TikTok Shop soal dana seller Rp3T, KPPU selidiki dugaan monopoli; penjual keluh saldo/toko diblokir (ANTARA, detikFinance, Media Konsumen)",
-        "pain": null,
-        "target": null,
-        "existing": null,
-        "opportunity": "FACT: DPR panggil Tokopedia & TikTok Shop soal dana seller Rp3T, KPPU selidiki dugaan monopoli; penjual keluh saldo/toko diblokir (ANTARA, detikFinance, Media Konsumen)",
-        "opportunity_score": "9",
-        "sources": null
-      },
-      {
-        "title": "Agen AI Ubah Cara Jualan Software",
-        "what": "FACT: industri geser ke bayar-sesuai-pakai (usage-based), \"agent economy\" & vertical AI makin rame (InformationWeek, Seeking Alpha, Bessemer)",
-        "pain": null,
-        "target": null,
-        "existing": null,
-        "opportunity": "FACT: industri geser ke bayar-sesuai-pakai (usage-based), \"agent economy\" & vertical AI makin rame (InformationWeek, Seeking Alpha, Bessemer)",
-        "opportunity_score": "8",
-        "sources": null
-      },
-      {
-        "title": "Kredit UMKM (KUR) Jadi Primadona",
-        "what": "FACT: pemerintah bidik kredit UMKM Rp1.500T, BPR salurkan KUR bunga 6%, 51% untuk wirausaha perempuan (SWA, ANTARA, Bisnis.com)",
-        "pain": null,
-        "target": null,
-        "existing": null,
-        "opportunity": "FACT: pemerintah bidik kredit UMKM Rp1.500T, BPR salurkan KUR bunga 6%, 51% untuk wirausaha perempuan (SWA, ANTARA, Bisnis.com)",
-        "opportunity_score": "7",
-        "sources": null
-      }
-    ],
-    "regions": [
-      {
-        "region": "Indonesia vs Global",
-        "trend": "- **🌐 Indonesia vs Global:** Global udah geser ke software bayar-sesuai-pakai buat agen AI; di Indonesia rame-nya masih soal platform yang nahan duit penjual + pembukuan manual. Kompetisi alat pembuku",
-        "signal": null,
-        "opportunity": null,
-        "sources": []
-      }
-    ],
-    "products": [
-      {
-        "title": "Asisten \"Pembela Dana Penjual\"",
-        "score": null,
-        "target": null,
-        "problem": "pecahkan masalah: dana penjualan ketahan/diblokir tanpa kejelasan. Yang butuh: seller TikTok Shop/Tokopedia/Shopee/Lazada. Cara orang sekarang: chat CS, komplain manual, ngeluh di sosmed. Produk: laya",
-        "solution": null,
-        "mvp": "Rp2-4 jt (web + template + iklan awal).",
-        "monetization": "Rp8-25 jt/bln (PERKIRAAN).",
-        "validation": "VALIDATE FIRST",
-        "sources": []
-      },
-      {
-        "title": "Buku Kas + Rekonsiliasi Marketplace Otomatis",
-        "score": null,
-        "target": null,
-        "problem": "pecahkan: catatan jual-beli & hitung fee/setelmen masih manual. Yang butuh: UMKM & penjual online. Cara orang sekarang: Excel/buku tulis. Produk: bot WA/Google Sheet auto-catat penjualan, hitung dana ",
-        "solution": null,
-        "mvp": "Rp2 jt.",
-        "monetization": "Rp8-15 jt/bln (PERKIRAAN).",
-        "validation": "BUILD",
-        "sources": []
-      },
-      {
-        "title": "Agen AI Admin buat UMKM",
-        "score": null,
-        "target": null,
-        "problem": "pecahkan: balas chat & follow-up pelanggan ribet. Yang butuh: toko online & jasa lokal. Cara orang sekarang: balas manual satu-satu. Produk: agen AI balas chat + follow-up + rangkum laporan. Cara dapa",
-        "solution": null,
-        "mvp": "Rp3 jt.",
-        "monetization": "Rp10-20 jt/bln (PERKIRAAN).",
-        "validation": "VALIDATE FIRST",
-        "sources": []
-      }
-    ],
+    "summary": "Laporan harian terakhir tercatat: 37 tren dalam trend memory. Kategori dominan: Fintech. Tren yang berulang (indikasi tren sejati): AI Automation UMKM.",
+    "top3": [],
+    "insights": [],
+    "regions": [],
+    "products": [],
     "memory": {
       "stats": {
-        "total": 35,
+        "total": 37,
         "dominant": "Fintech",
-        "repeating": []
+        "repeating": [
+          "AI Automation UMKM"
+        ]
       },
       "entries": [
-        {
-          "trend": "Fintech Lending & Paylater War",
-          "category": "Fintech",
-          "date": "2026-08-22",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT: Portofolio Grab naik 197% (konsolidasi Superbank), Monee 62.5%, GoPay 58% (sumber: Katadata). | NAIK"
-        },
-        {
-          "trend": "TikTok Social Commerce Payment",
-          "category": "E-commerce/Fintech",
-          "date": "2026-08-22",
-          "score": null,
-          "stage": "BARU",
-          "region": null,
-          "product": "FACT: TikTok siapkan fitur kirim uang via DM/super-app (sumber: Katadata). | BARU"
-        },
         {
           "trend": "Boring Business Automation (WA CRM + Invoicing)",
           "category": "SaaS",
@@ -377,13 +260,31 @@
           "product": "OBSERVED: Banyak pelatihan/klinik (UGM, Diskop NTB, LSPR) dorong UMKM melek digital & aman data; 5.236 UMKM Bantul jualan online omzet naik (sumber: ANTARA, Harian Jogja, Media Center Sembada). | NAIK"
         },
         {
-          "trend": "Creator Economy Indonesia",
+          "trend": "[2026-09-10] Creator Economy Indonesia",
           "category": "Creator",
-          "date": "2026-09-10",
+          "date": "OBSERVED: Social+ payout kreator Rp10M, IM3 Airena Kreatif; RI dampak komersial kreator terbesar APAC, potensi US$376M (sumber: tagar.id, youngster.id, Kompas).",
           "score": null,
-          "stage": "STABIL",
+          "stage": "SaaS",
+          "region": "FACT: Usage-based pricing replaces seat model, early adopters report cost savings (TechCrunch)",
+          "product": "NAIK"
+        },
+        {
+          "trend": "TikTok DM Payment",
+          "category": "E-commerce/Fintech",
+          "date": "2026-09-16",
+          "score": null,
+          "stage": "BARU",
           "region": null,
-          "product": "OBSERVED: Social+ payout kreator Rp10M, IM3 Airena Kreatif; RI dampak komersial kreator terbesar APAC, potensi US$376M (sumber: tagar.id, youngster.id, Kompas). | STABIL"
+          "product": "FACT: TikTok testing money-sending via DM in Indonesia (TechCrunch) | BARU"
+        },
+        {
+          "trend": "AI Automation UMKM",
+          "category": "SaaS",
+          "date": "2026-09-16",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "OBSERVED: UMKM manual bookkeeping & follow-up, demand for bot WA automation grows (trend-memory) | NAIK"
         }
       ]
     }
