@@ -1,290 +1,45 @@
 {
   "data": {
-    "updated_at": "2026-09-16T09:03:07+07:00",
+    "updated_at": "2026-09-18T09:01:30+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 37 tren dalam trend memory. Kategori dominan: Fintech. Tren yang berulang (indikasi tren sejati): AI Automation UMKM.",
+    "summary": "Laporan harian terakhir tercatat: 3 tren dalam trend memory. Kategori dominan: UMKM. Tren yang berulang (indikasi tren sejati): belum ada.",
     "top3": [],
     "insights": [],
     "regions": [],
     "products": [],
     "memory": {
       "stats": {
-        "total": 37,
-        "dominant": "Fintech",
-        "repeating": [
-          "AI Automation UMKM"
-        ]
+        "total": 3,
+        "dominant": "UMKM",
+        "repeating": []
       },
       "entries": [
         {
-          "trend": "Boring Business Automation (WA CRM + Invoicing)",
+          "trend": "AI Agents Usage-Based Pricing",
           "category": "SaaS",
-          "date": "2026-08-22",
+          "date": "2026-09-18",
           "score": null,
           "stage": "NAIK",
           "region": null,
-          "product": "OBSERVED: Sinyal sosmed terbatas (Reddit/X rate-limit), pasar UMKM butuh rekonsiliasi pembayaran cepat. | NAIK"
-        },
-        {
-          "trend": "WA CRM + Follow-Up Otomatis",
-          "category": "SaaS",
-          "date": "2026-08-24",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "OBSERVED: Follow-up pelanggan manual jadi bottleneck UMKM. Peluang: bot WA + template pesan. | NAIK"
-        },
-        {
-          "trend": "Kartu Kredit Indonesia (KKI) Ritel",
-          "category": "Fintech",
-          "date": "2026-08-25",
-          "score": null,
-          "stage": "BARU",
-          "region": null,
-          "product": "FACT: BI luncurkan KKI, edukasi + pembukuan otomatis jadi peluang. | BARU"
-        },
-        {
-          "trend": "TikTok DM Bayar",
-          "category": "E-commerce/Fintech",
-          "date": "2026-08-25",
-          "score": null,
-          "stage": "BARU",
-          "region": null,
-          "product": "FACT: Fitur kirim uang via DM, risiko regulasi BI. | BARU"
-        },
-        {
-          "trend": "Bot WA Follow-Up Otomatis",
-          "category": "SaaS",
-          "date": "2026-08-25",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "OBSERVED: Peluang besar, kompetisi rendah, monetisasi jelas. | NAIK"
-        },
-        {
-          "trend": "AI Economy & Digital Dividend",
-          "category": "AI/Ekonomi",
-          "date": "2026-08-27",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT: AI potential US$15.7T global 2030, RI AI revenue +127% YoY, 80% internet users pakai AI, GMV digital US$100B (sumber: CNBC Indonesia, Airlangga Hartarto). | NAIK"
-        },
-        {
-          "trend": "AI Video E-commerce Masalah",
-          "category": "E-commerce/AI",
-          "date": "2026-08-27",
-          "score": null,
-          "stage": "BARU",
-          "region": null,
-          "product": "FACT: Shopee/TikTok Shop video AI auto-generated bikin rugi pedagang - info salah, susah dihapus, \"like Hydra\" (sumber: CNBC Indonesia). | BARU"
-        },
-        {
-          "trend": "Ojol Perpres & Tarif Regulasi",
-          "category": "Gig Economy/Regulasi",
-          "date": "2026-08-27",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT: Perpres Ojol akan atur status pengusaha mikro + tarif antar makanan, Kemenhub minta rincian biaya, Menhub awasi kemitraan (sumber: Katadata). | NAIK"
-        },
-        {
-          "trend": "Fintech Paylater & AI Identity Risk",
-          "category": "Fintech",
-          "date": "2026-08-27",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT: Utang paylater tembus Rp44T, OJK sebut gaya hidup gen Z; AI manipulasi identitas jadi risiko pinjaman; investasi asing P2P naik 34% ke Rp17T (sumber: Katadata). | NAIK"
-        },
-        {
-          "trend": "E-commerce FMCG Shift & Fee Pressure",
-          "category": "E-commerce",
-          "date": "2026-08-27",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT: Belanja kebutuhan harian ke e-com Rp88.4T (+29.4% YoY), fee marketplace naik, pajak ditunda Nov 2026, TikTok Shop GMV proyeksi Rp2.223T (sumber: Katadata). | NAIK"
-        },
-        {
-          "trend": "Industrial AI Adoption Gap",
-          "category": "AI/Industri",
-          "date": "2026-08-27",
-          "score": null,
-          "stage": "BARU",
-          "region": null,
-          "product": "FACT: ABB: industri pulp/kertas & tambang siap AI tapi butuh fondasi data dulu; pendekatan bertahap; \"Industrial Knowledge Vault\" capture pengetahuan pensiunan (sumber: CNBC Indonesia). | BARU"
-        },
-        {
-          "trend": "Global AI Compute Arms Race",
-          "category": "AI/Global",
-          "date": "2026-08-27",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT: Instinct $350M @ $2.5B valuation; Amazon 3x Nvidia chip order; Anthropic $45B deal Nscale; OpenAI executive exodus (sumber: TechCrunch). | NAIK"
-        },
-        {
-          "trend": "AI Hype Turun di Gen Z",
-          "category": "AI/Global",
-          "date": "2026-09-01",
-          "score": null,
-          "stage": "TURUN",
-          "region": null,
-          "product": "FACT: Pew Research: 55% anak muda <30th AS khawatir AI > antusias (naik dari 39% 2024); 71% percaya AI ambil alih pekerjaan 2 dekade (sumber: CNBC Indonesia). | TURUN"
-        },
-        {
-          "trend": "AI Enterprise Cost Crisis",
-          "category": "AI/SaaS",
-          "date": "2026-09-01",
-          "score": null,
-          "stage": "BARU",
-          "region": null,
-          "product": "FACT: Microsoft karyawan 1 orang habis Rp18jt/hari (Rp18jt/28hr = ~Rp2.3M/hr) pakai AI, total tagihan melonjak; Microsoft & Amazon mundur dari \"pakai AI sembarangan\" (sumber: CNBC Indonesia). | BARU"
-        },
-        {
-          "trend": "KKI (Kartu Kredit Indonesia) Ritel Launch",
-          "category": "Fintech",
-          "date": "2026-09-01",
-          "score": null,
-          "stage": "BARU",
-          "region": null,
-          "product": "FACT: BI luncurkan KKI 17 Agu 2026, 8 bank penerbit (BCA, Mandiri, BNI, BRI, CIMB, Permata, Mega, BSI), transaksi QRIS digital dulu, kartu fisik nanti (sumber: CNBC Indonesia). | BARU"
-        },
-        {
-          "trend": "PMI Manufaktur RI Kontraksi",
-          "category": "Makro/Industri",
-          "date": "2026-09-01",
-          "score": null,
-          "stage": "TURUN",
-          "region": null,
-          "product": "FACT: PMI Agustus 2026 = 49.8 (kontraksi), PHK naik, produksi turun, tapi pesanan baru naik tipis pertama kali 3 bln; kepercayaan bisnis naik 7 bln tertinggi (sumber: CNBC Indonesia). | TURUN"
-        },
-        {
-          "trend": "AI Data Center Boom Indonesia",
-          "category": "AI/Infra",
-          "date": "2026-09-01",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT: 4 pemain global bangun data center 2.170 MW; Indosat (Zankore JV dgn Nvidia/Nokia) proyeksi Rp1-2T pendapatan 2028; GoTo monetisasi lewat efisiensi & engagement; WIFI jadi \"jalan tol digital\" (sumber: Katadata). | NAIK"
-        },
-        {
-          "trend": "IEU-CEPA Furnitur Export Opportunity",
-          "category": "E-commerce/Export",
-          "date": "2026-09-01",
-          "score": null,
-          "stage": "BARU",
-          "region": null,
-          "product": "FACT: HIMKI target ekspor furnitur ke UE naik 10-15% (2-3 thn), potensi 20-30% 5 thn; pasar UE US$72.4M, pangsa Indo baru 0.6%; butuh kapasitas produksi, desain, sertifikasi keberlanjutan (sumber: Katadata). | BARU"
-        },
-        {
-          "trend": "UMKM Export Push via BRI",
-          "category": "UMKM/Export",
-          "date": "2026-09-01",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT: BRI bantu UMKM Sumut & Jayapura tembus pasar global lewat GMBPF 2026 & pelatihan ekspor; PNM + Danantara target 23.1 jt pengusaha ultra mikro (sumber: CNBC Entrepreneur). | NAIK"
-        },
-        {
-          "trend": "AI Agent Safety Risk",
-          "category": "AI/Safety",
-          "date": "2026-09-01",
-          "score": null,
-          "stage": "BARU",
-          "region": null,
-          "product": "OBSERVED: Meta researcher (Summer Yue) email dihapus total oleh agen AI OpenClaw yg \"ngamuk\" - instruksi \"jgn bertindak\" lenyap saat kompaksi data; peringatan: agen AI butuh guardrails ketat (sumber: CNBC Indonesia). | BARU"
-        },
-        {
-          "trend": "Kuota Internet Rollout Operator",
-          "category": "Telco/Regulasi",
-          "date": "2026-09-01",
-          "score": null,
-          "stage": "BARU",
-          "region": null,
-          "product": "FACT: Komdigi larang kuota hangus, wajib rollover; operator adaptasi paket; implikasi biaya & margin telco (sumber: CNBC & Katadata). | BARU"
-        },
-        {
-          "trend": "Dana Penjual Marketplace Ditahan",
-          "category": "E-commerce",
-          "date": "2026-09-10",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT: DPR panggil Tokopedia & TikTok Shop soal dana seller Rp3T, KPPU selidiki dugaan monopoli; penjual keluh saldo/toko diblokir (sumber: ANTARA, detikFinance, Media Konsumen). | NAIK"
-        },
-        {
-          "trend": "AI Agents Ubah Harga SaaS",
-          "category": "AI/SaaS",
-          "date": "2026-09-10",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT: Industri bergeser ke usage-based pricing untuk agen AI; \"agent economy\" & vertical AI ramai (sumber: InformationWeek, Seeking Alpha, Bessemer, Menlo VC). | NAIK"
-        },
-        {
-          "trend": "KUR UMKM Rp1.500T & Bunga 6%",
-          "category": "UMKM/Pembiayaan",
-          "date": "2026-09-10",
-          "score": null,
-          "stage": "BARU",
-          "region": null,
-          "product": "FACT: Pemerintah bidik kredit UMKM Rp1.500T, BPR salurkan KUR bunga 6%, 51% untuk wirausaha perempuan (sumber: SWA, ANTARA, Bisnis.com). | BARU"
-        },
-        {
-          "trend": "Paylater & Utang Digital Gen Z",
-          "category": "Fintech",
-          "date": "2026-09-10",
-          "score": null,
-          "stage": "STABIL",
-          "region": null,
-          "product": "FACT: Utang paylater RI ~Rp31,56T (Juli), paylater bank tumbuh 31% YoY, 730rb warga RI terpaksa utang (sumber: detikFinance, CNBC Indonesia, Suara). | STABIL"
-        },
-        {
-          "trend": "AI Ganti Kerja & PHK Teknologi",
-          "category": "AI/Global",
-          "date": "2026-09-10",
-          "score": null,
-          "stage": "TURUN",
-          "region": null,
-          "product": "FACT: Rencana Meta ganti karyawan dengan AI dinilai gagal, PHK teknologi terus berlanjut (sumber: Kompas Tekno, detikInet, VIVA). | TURUN"
-        },
-        {
-          "trend": "Literasi Digital & Keamanan Data UMKM",
-          "category": "UMKM/Digital",
-          "date": "2026-09-10",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "OBSERVED: Banyak pelatihan/klinik (UGM, Diskop NTB, LSPR) dorong UMKM melek digital & aman data; 5.236 UMKM Bantul jualan online omzet naik (sumber: ANTARA, Harian Jogja, Media Center Sembada). | NAIK"
-        },
-        {
-          "trend": "[2026-09-10] Creator Economy Indonesia",
-          "category": "Creator",
-          "date": "OBSERVED: Social+ payout kreator Rp10M, IM3 Airena Kreatif; RI dampak komersial kreator terbesar APAC, potensi US$376M (sumber: tagar.id, youngster.id, Kompas).",
-          "score": null,
-          "stage": "SaaS",
-          "region": "FACT: Usage-based pricing replaces seat model, early adopters report cost savings (TechCrunch)",
-          "product": "NAIK"
+          "product": "FACT: Usage‑based pricing replaces seat model, early adopters report cost savings (TechCrunch) | NAIK"
         },
         {
           "trend": "TikTok DM Payment",
           "category": "E-commerce/Fintech",
-          "date": "2026-09-16",
+          "date": "2026-09-18",
           "score": null,
           "stage": "BARU",
           "region": null,
-          "product": "FACT: TikTok testing money-sending via DM in Indonesia (TechCrunch) | BARU"
+          "product": "FACT: TikTok testing money‑sending via DM in Indonesia (TechCrunch) | BARU"
         },
         {
-          "trend": "AI Automation UMKM",
-          "category": "SaaS",
-          "date": "2026-09-16",
+          "trend": "UMKM e‑commerce cost pressure",
+          "category": "UMKM",
+          "date": "2026-09-18",
           "score": null,
           "stage": "NAIK",
           "region": null,
-          "product": "OBSERVED: UMKM manual bookkeeping & follow-up, demand for bot WA automation grows (trend-memory) | NAIK"
+          "product": "FACT: Platform fees naik 15‑20% Q2‑2026, UMKM keluh profit margin menurun (Bisnis.com) | NAIK"
         }
       ]
     }
