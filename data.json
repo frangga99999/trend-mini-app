@@ -1,109 +1,16 @@
 {
   "data": {
-    "updated_at": "2026-09-26T09:01:01+07:00",
+    "updated_at": "2026-10-02T10:15:20+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 6 tren dalam trend memory. Kategori dominan: AI. Tren yang berulang (indikasi tren sejati): belum ada.",
-    "top3": [
-      {
-        "title": "AI Startup Fundraising",
-        "score": "9",
-        "momentum": "NAIK",
-        "global": null,
-        "indonesia": null,
-        "opportunity": "Pendanaan AI naik 52% YoY ke $131.5B (Qubit Capital). 🔥 9/10, **NAIK**",
-        "sources": []
-      },
-      {
-        "title": "UMKM Digitalisasi",
-        "score": "8",
-        "momentum": "STABIL",
-        "global": null,
-        "indonesia": null,
-        "opportunity": "UMKM makin pakai inovasi & digitalisasi untuk survive (Katadata). 🔥 8/10, **STABIL**",
-        "sources": []
-      },
-      {
-        "title": "Creator Economy Boom",
-        "score": "7",
-        "momentum": "NAIK",
-        "global": null,
-        "indonesia": null,
-        "opportunity": "Pasar ekonomi kreator diprediksi capai $1 Triliun 2033 (DemandSage). 🔥 7/10, **NAIK**",
-        "sources": []
-      }
-    ],
-    "insights": [
-      {
-        "title": "AI Startup Fundraising",
-        "what": "Pendanaan AI naik 52% YoY ke $131.5B (Qubit Capital). 🔥 9/10, **NAIK**",
-        "pain": null,
-        "target": null,
-        "existing": null,
-        "opportunity": "Pendanaan AI naik 52% YoY ke $131.5B (Qubit Capital). 🔥 9/10, **NAIK**",
-        "opportunity_score": "9",
-        "sources": null
-      },
-      {
-        "title": "UMKM Digitalisasi",
-        "what": "UMKM makin pakai inovasi & digitalisasi untuk survive (Katadata). 🔥 8/10, **STABIL**",
-        "pain": null,
-        "target": null,
-        "existing": null,
-        "opportunity": "UMKM makin pakai inovasi & digitalisasi untuk survive (Katadata). 🔥 8/10, **STABIL**",
-        "opportunity_score": "8",
-        "sources": null
-      },
-      {
-        "title": "Creator Economy Boom",
-        "what": "Pasar ekonomi kreator diprediksi capai $1 Triliun 2033 (DemandSage). 🔥 7/10, **NAIK**",
-        "pain": null,
-        "target": null,
-        "existing": null,
-        "opportunity": "Pasar ekonomi kreator diprediksi capai $1 Triliun 2033 (DemandSage). 🔥 7/10, **NAIK**",
-        "opportunity_score": "7",
-        "sources": null
-      }
-    ],
+    "summary": "Laporan harian terakhir tercatat: 11 tren dalam trend memory. Kategori dominan: SaaS. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "top3": [],
+    "insights": [],
     "regions": [],
-    "products": [
-      {
-        "title": "Marketplace UMKM No",
-        "score": null,
-        "target": null,
-        "problem": "Commission**: Solusi: jual langsung tanpa biaya tinggi. Butuh: UMKM. Cara sekarang: marketplace besar (potongan besar). Produk: platform mini gratis. Monetisasi: donasi tier/subscription. Biaya mulai:",
-        "solution": null,
-        "mvp": "Rp50-100 juta (dev awal).",
-        "monetization": "Rp10-20 juta/bulan.",
-        "validation": "VALIDATE FIRST",
-        "sources": []
-      },
-      {
-        "title": "Logistik Pintar",
-        "score": null,
-        "target": "toko kecil e-commerce.",
-        "problem": "Solusi: tools dashboard tracking semua ekspedisi. Target: toko kecil e-commerce. Cara sekarang: cek manual. Produk: SaaS murah. Monetisasi: Rp50k langganan/bulan. Biaya mulai: Rp75 juta (MVP). Perkira",
-        "solution": null,
-        "mvp": "Rp75 juta (MVP).",
-        "monetization": "Rp15-25 juta/bulan.",
-        "validation": "BUILD",
-        "sources": []
-      },
-      {
-        "title": "Kreator Multi",
-        "score": null,
-        "target": null,
-        "problem": "Platform Revenue**: Solusi: tools analitik ROI antar platform. Butuh: kreator konten. Cara sekarang: manual (spreadsheet). Produk: SaaS (berlangganan Rp100k/bln). Biaya mulai: Rp50 juta. Perkiraan pen",
-        "solution": null,
-        "mvp": "Rp50 juta.",
-        "monetization": "Rp50 juta/bulan.",
-        "validation": "VALIDATE FIRST",
-        "sources": []
-      }
-    ],
+    "products": [],
     "memory": {
       "stats": {
-        "total": 6,
-        "dominant": "AI",
+        "total": 11,
+        "dominant": "SaaS",
         "repeating": []
       },
       "entries": [
@@ -153,13 +60,58 @@
           "product": "FACT: market $5.38B 2024 → $111B 2032 (Data Bridge) | NAik"
         },
         {
-          "trend": "Reddit AI agents discussion",
+          "trend": "[2026-09-22] Reddit AI agents discussion",
           "category": "Social Media",
-          "date": "2026-09-22",
+          "date": "OBSERVED: sinyal terbatas (Reddit)",
+          "score": null,
+          "stage": "AI/Agents",
+          "region": "FACT: Deloitte prediksi 2026 SaaS jadi kumpulan workflow otonom; model bayar geser dari per-kursi ke per-komputasi (Deloitte)",
+          "product": "NAIK"
+        },
+        {
+          "trend": "Permen UMKM No.3/2026 dan diskon 50% biaya marketplace",
+          "category": "UMKM/E-commerce",
+          "date": "2026-10-02",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT: pemerintah target potong biaya layanan e-commerce 50% utk UMKM mulai Agustus 2026 (CNBC Indonesia) | NAIK"
+        },
+        {
+          "trend": "QRIS meledak H1-2026",
+          "category": "Fintech",
+          "date": "2026-10-02",
+          "score": null,
+          "stage": "BARU",
+          "region": null,
+          "product": "FACT: 12,55 miliar transaksi, nilai Rp600,69 T, naik 100% YoY (Jakarta Globe/BI) | BARU"
+        },
+        {
+          "trend": "AI SaaS churn pembeli second-attempt",
+          "category": "SaaS",
+          "date": "2026-10-02",
+          "score": null,
+          "stage": "BARU",
+          "region": null,
+          "product": "FACT: 65,9% pembeli AI SaaS sudah pernah coba dan tinggalkan solusi lain (GoodFirms 2026) | BARU"
+        },
+        {
+          "trend": "Boring business plus AI automation",
+          "category": "Boring Business",
+          "date": "2026-10-02",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT: VC alihkan dana ke bisnis membosankan (akuntansi/properti); permintaan otomasi invoice dan follow-up (BigIdeasDB/LinkedIn) | NAIK"
+        },
+        {
+          "trend": "Sinyal sosial Reddit/Threads",
+          "category": "Social Media",
+          "date": "2026-10-02",
           "score": null,
           "stage": "STABIL",
           "region": null,
-          "product": "OBSERVED: sinyal terbatas (Reddit) | STABIL"
+          "product": "OBSERVED: sinyal terbatas - Reddit blokir akses otomatis, Firecrawl down (Reddit/Threads) | STABIL"
         }
       ]
     }
