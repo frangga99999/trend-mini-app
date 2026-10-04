@@ -1,16 +1,16 @@
 {
   "data": {
-    "updated_at": "2026-10-02T10:15:20+07:00",
+    "updated_at": "2026-10-04T09:01:03+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 11 tren dalam trend memory. Kategori dominan: SaaS. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "summary": "Laporan harian terakhir tercatat: 13 tren dalam trend memory. Kategori dominan: AI/Agents. Tren yang berulang (indikasi tren sejati): belum ada.",
     "top3": [],
     "insights": [],
     "regions": [],
     "products": [],
     "memory": {
       "stats": {
-        "total": 11,
-        "dominant": "SaaS",
+        "total": 13,
+        "dominant": "AI/Agents",
         "repeating": []
       },
       "entries": [
@@ -57,16 +57,25 @@
           "score": null,
           "stage": "NAIK",
           "region": null,
-          "product": "FACT: market $5.38B 2024 → $111B 2032 (Data Bridge) | NAik"
+          "product": "FACT: market $5.38B 2024 → $111B 2032 (Data Bridge) | NAIK"
         },
         {
-          "trend": "[2026-09-22] Reddit AI agents discussion",
+          "trend": "Reddit AI agents discussion",
           "category": "Social Media",
-          "date": "OBSERVED: sinyal terbatas (Reddit)",
+          "date": "2026-09-22",
           "score": null,
-          "stage": "AI/Agents",
-          "region": "FACT: Deloitte prediksi 2026 SaaS jadi kumpulan workflow otonom; model bayar geser dari per-kursi ke per-komputasi (Deloitte)",
-          "product": "NAIK"
+          "stage": "STABIL",
+          "region": null,
+          "product": "OBSERVED: sinyal terbatas (Reddit) | STABIL"
+        },
+        {
+          "trend": "AI agents gantikan SaaS",
+          "category": "AI/Agents",
+          "date": "2026-10-02",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT: Deloitte prediksi 2026 SaaS jadi kumpulan workflow otonom; model bayar geser dari per-kursi ke per-komputasi (Deloitte) | NAIK"
         },
         {
           "trend": "Permen UMKM No.3/2026 dan diskon 50% biaya marketplace",
@@ -112,6 +121,15 @@
           "stage": "STABIL",
           "region": null,
           "product": "OBSERVED: sinyal terbatas - Reddit blokir akses otomatis, Firecrawl down (Reddit/Threads) | STABIL"
+        },
+        {
+          "trend": "Agentic Commerce",
+          "category": "E-commerce/AI Agents",
+          "date": "2026-10-04",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT: AI agents drive 20% holiday orders, convert 3x better (SaaS Mag) | NAIK"
         }
       ]
     }
