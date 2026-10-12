@@ -1,8 +1,8 @@
 {
   "data": {
-    "updated_at": "2026-10-12T09:01:54+07:00",
+    "updated_at": "2026-10-12T09:02:05+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 13 tren dalam trend memory. Kategori dominan: Social Media. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "summary": "Laporan harian terakhir tercatat: 19 tren dalam trend memory. Kategori dominan: Social Media. Tren yang berulang (indikasi tren sejati): Sinyal sosial Reddit/Threads.",
     "top3": [
       {
         "title": "AI Agentic Commerce",
@@ -102,9 +102,11 @@
     ],
     "memory": {
       "stats": {
-        "total": 13,
+        "total": 19,
         "dominant": "Social Media",
-        "repeating": []
+        "repeating": [
+          "Sinyal sosial Reddit/Threads"
+        ]
       },
       "entries": [
         {
@@ -223,6 +225,60 @@
           "stage": "NAIK",
           "region": null,
           "product": "FACT: AI agents drive 20% holiday orders, convert 3x better (SaaS Mag) | NAIK"
+        },
+        {
+          "trend": "Agentic commerce AI shopping agents",
+          "category": "E-commerce/AI Agents",
+          "date": "2026-10-12",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT: McKinsey Jan-2026 \"automation curve in agentic commerce\" + Deloitte Jul-2026; AI shopping agents jadi kanal belanja baru | NAIK"
+        },
+        {
+          "trend": "Outcome-based AI agent pricing dan cost blowup",
+          "category": "SaaS/AI Agents",
+          "date": "2026-10-12",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT: Salesforce/ServiceNow/SAP geser ke outcome-based pricing; budget USD20k jadi USD180k+ (crispidea/gammatek) | NAIK"
+        },
+        {
+          "trend": "Live commerce TikTok Shop Indonesia",
+          "category": "E-commerce/Social",
+          "date": "2026-10-12",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT: 75% user TikTok ID beli via live shopping (6 bln terakhir), konversi 3-5x, 60-70% transaksi masih COD (hashmeta) | NAIK"
+        },
+        {
+          "trend": "Otomasi operasional UMKM",
+          "category": "Boring Business/UMKM",
+          "date": "2026-10-12",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT: e-commerce ID USD90.35B->104.21B CAGR 15.32%, 70% UMKM pakai marketplace (founderplus); klaim vendor AI efisiensi 40%/hemat 30% (etzalgroup) | NAIK"
+        },
+        {
+          "trend": "AI wrapper margin compression dan SaaS churn",
+          "category": "SaaS",
+          "date": "2026-10-12",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT: laporan Startup Failures 2026 catat kompresi margin AI wrapper + churn B2B SaaS legacy (ideaproof.io) | NAIK"
+        },
+        {
+          "trend": "Sinyal sosial Reddit/Threads",
+          "category": "Social Media",
+          "date": "2026-10-12",
+          "score": null,
+          "stage": "STABIL",
+          "region": null,
+          "product": "OBSERVED: sinyal terbatas - Firecrawl down (port 3002), Reddit JSON diblokir, Threads tak terjangkau; pakai snippet DDGS | STABIL"
         }
       ]
     }
