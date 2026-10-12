@@ -1,16 +1,109 @@
 {
   "data": {
-    "updated_at": "2026-10-08T09:09:06+07:00",
+    "updated_at": "2026-10-12T09:01:54+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 13 tren dalam trend memory. Kategori dominan: AI/Agents. Tren yang berulang (indikasi tren sejati): belum ada.",
-    "top3": [],
-    "insights": [],
+    "summary": "Laporan harian terakhir tercatat: 13 tren dalam trend memory. Kategori dominan: Social Media. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "top3": [
+      {
+        "title": "AI Agentic Commerce",
+        "score": "9",
+        "momentum": "NAIK",
+        "global": null,
+        "indonesia": null,
+        "opportunity": "** AI bantu 20% order musiman, konversi 3x lebih tinggi. 🔥 9/10 (NAIK).",
+        "sources": []
+      },
+      {
+        "title": "UMKM E",
+        "score": "8",
+        "momentum": "STABIL",
+        "global": null,
+        "indonesia": null,
+        "opportunity": "commerce Blunder:** Diskon biaya marketplace dijanjiin pemerintah, tapi biaya naik diam-diam. 🔥 8/10 (STABIL).",
+        "sources": []
+      },
+      {
+        "title": "Fintech QRIS Booming",
+        "score": "8",
+        "momentum": "BARU",
+        "global": null,
+        "indonesia": null,
+        "opportunity": "** QRIS ledak 12,55 miliar transaksi H1-2026 (100% YoY). 🔥 8/10 (BARU).",
+        "sources": []
+      }
+    ],
+    "insights": [
+      {
+        "title": "AI Agentic Commerce",
+        "what": "** AI bantu 20% order musiman, konversi 3x lebih tinggi. 🔥 9/10 (NAIK).",
+        "pain": null,
+        "target": null,
+        "existing": null,
+        "opportunity": "** AI bantu 20% order musiman, konversi 3x lebih tinggi. 🔥 9/10 (NAIK).",
+        "opportunity_score": "9",
+        "sources": null
+      },
+      {
+        "title": "UMKM E",
+        "what": "commerce Blunder:** Diskon biaya marketplace dijanjiin pemerintah, tapi biaya naik diam-diam. 🔥 8/10 (STABIL).",
+        "pain": null,
+        "target": null,
+        "existing": null,
+        "opportunity": "commerce Blunder:** Diskon biaya marketplace dijanjiin pemerintah, tapi biaya naik diam-diam. 🔥 8/10 (STABIL).",
+        "opportunity_score": "8",
+        "sources": null
+      },
+      {
+        "title": "Fintech QRIS Booming",
+        "what": "** QRIS ledak 12,55 miliar transaksi H1-2026 (100% YoY). 🔥 8/10 (BARU).",
+        "pain": null,
+        "target": null,
+        "existing": null,
+        "opportunity": "** QRIS ledak 12,55 miliar transaksi H1-2026 (100% YoY). 🔥 8/10 (BARU).",
+        "opportunity_score": "8",
+        "sources": null
+      }
+    ],
     "regions": [],
-    "products": [],
+    "products": [
+      {
+        "title": "Marketplace biar adil (VALIDATE FIRST)",
+        "score": null,
+        "target": null,
+        "problem": "** Bantu UMKM transparansi plafon biaya platform (produk: cost tracker). Biaya mulai: Rp20 juta. Potensi penghasilan: Rp300 juta/tahun premium UMKM kelas menengah.",
+        "solution": null,
+        "mvp": "Rp20 juta. Potensi penghasilan: Rp300 juta/tahun premium UMKM kelas menengah.",
+        "monetization": null,
+        "validation": null,
+        "sources": []
+      },
+      {
+        "title": "AI SaaS Evaluator Bot (BUILD)",
+        "score": null,
+        "target": null,
+        "problem": "** Aplikasi AI kasih rekomendasi produk SaaS berdasar user history. Biaya: Rp35 juta (MVP chatbot + integrasi). Potensi omzet: Rp500 juta/year (lisensi bagi SaaS besar).",
+        "solution": null,
+        "mvp": "Rp35 juta (MVP chatbot + integrasi). Potensi omzet: Rp500 juta/year (lisensi bagi SaaS besar).",
+        "monetization": null,
+        "validation": null,
+        "sources": []
+      },
+      {
+        "title": "UMKM Class Hopper (WATCH)",
+        "score": null,
+        "target": null,
+        "problem": "** Platform crowd-review strategi digital naik kelas. Biaya: Rp50 juta, monetisasi dari ad/rekomendasi software. Perkiraan penghasilan: ???, timbang via tes beta niche.",
+        "solution": null,
+        "mvp": "Rp50 juta, monetisasi dari ad/rekomendasi software.",
+        "monetization": "???, timbang via tes beta niche.",
+        "validation": null,
+        "sources": []
+      }
+    ],
     "memory": {
       "stats": {
         "total": 13,
-        "dominant": "AI/Agents",
+        "dominant": "Social Media",
         "repeating": []
       },
       "entries": [
