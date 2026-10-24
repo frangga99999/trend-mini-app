@@ -1,10 +1,69 @@
 {
   "data": {
-    "updated_at": "2026-10-24T09:03:50+07:00",
+    "updated_at": "2026-10-24T09:04:01+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 4 tren dalam trend memory. Kategori dominan: AI/SaaS/UMKM. Tren yang berulang (indikasi tren sejati): belum ada.",
-    "top3": [],
-    "insights": [],
+    "summary": "Laporan harian terakhir tercatat: 4 tren dalam trend memory. Kategori dominan: E-commerce/UMKM ID. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "top3": [
+      {
+        "title": "Seller UMKM hengkang dari marketplace",
+        "score": "9",
+        "momentum": "NAIK",
+        "global": null,
+        "indonesia": null,
+        "opportunity": "biaya admin naik terus, margin tinggal 5-20%, jadi orang mulai bikin toko sendiri",
+        "sources": []
+      },
+      {
+        "title": "AI buat kerjaan \"boring\" (bukan AI hype)",
+        "score": "8",
+        "momentum": "STABIL",
+        "global": null,
+        "indonesia": null,
+        "opportunity": "owner usaha minta satu workflow yang langsung kepakai, bukan tools yang harus diawasi kayak anak magang",
+        "sources": []
+      },
+      {
+        "title": "Bayar AI pakai hasil, bukan pakai kursi",
+        "score": "7",
+        "momentum": "NAIK",
+        "global": null,
+        "indonesia": null,
+        "opportunity": "langganan per-user mulai ditinggal, ganti hitungan per pemakaian/hasil karena agent gantiin kerjaan orang",
+        "sources": []
+      }
+    ],
+    "insights": [
+      {
+        "title": "Seller UMKM hengkang dari marketplace",
+        "what": "biaya admin naik terus, margin tinggal 5-20%, jadi orang mulai bikin toko sendiri",
+        "pain": null,
+        "target": null,
+        "existing": null,
+        "opportunity": "biaya admin naik terus, margin tinggal 5-20%, jadi orang mulai bikin toko sendiri",
+        "opportunity_score": "9",
+        "sources": null
+      },
+      {
+        "title": "AI buat kerjaan \"boring\" (bukan AI hype)",
+        "what": "owner usaha minta satu workflow yang langsung kepakai, bukan tools yang harus diawasi kayak anak magang",
+        "pain": null,
+        "target": null,
+        "existing": null,
+        "opportunity": "owner usaha minta satu workflow yang langsung kepakai, bukan tools yang harus diawasi kayak anak magang",
+        "opportunity_score": "8",
+        "sources": null
+      },
+      {
+        "title": "Bayar AI pakai hasil, bukan pakai kursi",
+        "what": "langganan per-user mulai ditinggal, ganti hitungan per pemakaian/hasil karena agent gantiin kerjaan orang",
+        "pain": null,
+        "target": null,
+        "existing": null,
+        "opportunity": "langganan per-user mulai ditinggal, ganti hitungan per pemakaian/hasil karena agent gantiin kerjaan orang",
+        "opportunity_score": "7",
+        "sources": null
+      }
+    ],
     "regions": [
       {
         "region": "Indonesia vs Global",
@@ -22,17 +81,6 @@
       }
     ],
     "products": [
-      {
-        "title": "🥇 **Seller UMKM hengkang dari marketplace",
-        "score": null,
-        "target": null,
-        "problem": "biaya admin naik terus, margin tinggal 5-20%, jadi orang mulai bikin toko sendiri. Rating 🔥 9/10. Label: NAIK.",
-        "solution": null,
-        "mvp": null,
-        "monetization": null,
-        "validation": null,
-        "sources": []
-      },
       {
         "title": "\"Omzet di aplikasi sama saldo di rekening beda jauh.\"",
         "score": null,
@@ -81,7 +129,7 @@
     "memory": {
       "stats": {
         "total": 4,
-        "dominant": "AI/SaaS/UMKM",
+        "dominant": "E-commerce/UMKM ID",
         "repeating": []
       },
       "entries": [
