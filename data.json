@@ -1,166 +1,54 @@
 {
   "data": {
-    "updated_at": "2026-10-14T09:03:00+07:00",
+    "updated_at": "2026-10-24T09:03:24+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 4 tren dalam trend memory. Kategori dominan: AI/Automation. Tren yang berulang (indikasi tren sejati): belum ada.",
-    "top3": [
-      {
-        "title": "Otomasi AI buat operasional UMKM",
-        "score": "9",
-        "momentum": "NAIK",
-        "global": null,
-        "indonesia": null,
-        "opportunity": "orang butuh yang beneran ngerjain kerjaan membosankan, bukan demo keren",
-        "sources": []
-      },
-      {
-        "title": "Social commerce + langganan kreator (TikTok live, newsletter berbayar)",
-        "score": "8",
-        "momentum": "STABIL",
-        "global": null,
-        "indonesia": null,
-        "opportunity": "jualan makin nempel ke konten & langganan",
-        "sources": []
-      },
-      {
-        "title": "\"AI agent jangan jadi beban\"",
-        "score": "7",
-        "momentum": "BARU",
-        "global": null,
-        "indonesia": null,
-        "opportunity": "keluhan soal biaya tersembunyi & otomasi yang rapuh",
-        "sources": []
-      }
-    ],
-    "insights": [
-      {
-        "title": "Otomasi AI buat operasional UMKM",
-        "what": "orang butuh yang beneran ngerjain kerjaan membosankan, bukan demo keren",
-        "pain": null,
-        "target": null,
-        "existing": null,
-        "opportunity": "orang butuh yang beneran ngerjain kerjaan membosankan, bukan demo keren",
-        "opportunity_score": "9",
-        "sources": null
-      },
-      {
-        "title": "Social commerce + langganan kreator (TikTok live, newsletter berbayar)",
-        "what": "jualan makin nempel ke konten & langganan",
-        "pain": null,
-        "target": null,
-        "existing": null,
-        "opportunity": "jualan makin nempel ke konten & langganan",
-        "opportunity_score": "8",
-        "sources": null
-      },
-      {
-        "title": "\"AI agent jangan jadi beban\"",
-        "what": "keluhan soal biaya tersembunyi & otomasi yang rapuh",
-        "pain": null,
-        "target": null,
-        "existing": null,
-        "opportunity": "keluhan soal biaya tersembunyi & otomasi yang rapuh",
-        "opportunity_score": "7",
-        "sources": null
-      }
-    ],
-    "regions": [
-      {
-        "region": "Indonesia vs Global",
-        "trend": "- **🌏 Indonesia vs Global (tren utama):** *Global* — AI agents jadi \"must-have\", top 25 startup kumpulin US$25B+, tapi keluhan utama justru biaya tersembunyi & maintenance. *Indonesia* — 65,5jt UMKM, ",
-        "signal": null,
-        "opportunity": null,
-        "sources": []
-      }
-    ],
-    "products": [
-      {
-        "title": "Biaya AI agent lompat",
-        "score": null,
-        "target": null,
-        "problem": "budget agent bisa melar dari US$20rb ke US$180rb/tahun karena hidden fees. *(FACT — rangkuman vendor/web)*",
-        "solution": null,
-        "mvp": null,
-        "monetization": null,
-        "validation": null,
-        "sources": []
-      },
-      {
-        "title": "Jasa \"rawat otomasi\" (automation babysitting)",
-        "score": null,
-        "target": null,
-        "problem": "Masalahnya: workflow AI jebol dan nggak ada yang ngerawat. Yang butuh: UMKM/bisnis kecil non-teknis. Cara orang sekarang: bayar konsultan sekali, terus stuck, atau bikin sendiri lalu rusak. Produk: pa",
-        "solution": null,
-        "mvp": "nyaris Rp0 (skill + tools gratis).",
-        "monetization": "5–10 klien × Rp2jt = Rp10–20jt/bulan (kasar).",
-        "validation": "BUILD",
-        "sources": []
-      },
-      {
-        "title": "Dashboard \"semua channel + QRIS jadi satu laporan\"",
-        "score": null,
-        "target": null,
-        "problem": "Masalahnya: pembukuan & stok manual dari banyak marketplace. Yang butuh: 70% UMKM yang jualan di Shopee/Tokopedia/TikTok Shop. Cara orang sekarang: catat manual/Excel. Produk: tarik otomatis penjualan",
-        "solution": null,
-        "mvp": "Rp5–15jt bangun versi sederhana.",
-        "monetization": "500 UMKM × Rp100rb = Rp50jt/bulan (kasar).",
-        "validation": "VALIDATE FIRST",
-        "sources": []
-      },
-      {
-        "title": "Productized service / jasa digital margin tinggi",
-        "score": null,
-        "target": null,
-        "problem": "Masalahnya: UMKM butuh konten & admin tapi nggak sanggup bayar karyawan. Yang butuh: UMKM F&B & jasa. Cara orang sekarang: freelance lepas-lepas. Produk: paket langganan konten + admin. Cara dapat uan",
-        "solution": null,
-        "mvp": "Rp0–2jt.",
-        "monetization": "Rp5–15jt/bulan (kasar).",
-        "validation": "VALIDATE FIRST",
-        "sources": []
-      }
-    ],
+    "summary": "Laporan harian terakhir tercatat: 4 tren dalam trend memory. Kategori dominan: AI/SaaS/UMKM. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "top3": [],
+    "insights": [],
+    "regions": [],
+    "products": [],
     "memory": {
       "stats": {
         "total": 4,
-        "dominant": "AI/Automation",
+        "dominant": "AI/SaaS/UMKM",
         "repeating": []
       },
       "entries": [
         {
-          "trend": "Otomasi AI untuk operasional UMKM (boring business)",
-          "category": "AI/Automation",
-          "date": "2026-10-14",
+          "trend": "Agentic AI & Otomasi Operasional UMKM",
+          "category": "AI/SaaS/UMKM",
+          "date": "2026-10-16",
           "score": null,
           "stage": "NAIK",
           "region": null,
-          "product": "Reddit: owner capek jadi \"QA\" otomasi rapuh, cari tool yang bertahan; Threads ai 301M + aiagent 122K recent | NAIK"
+          "product": "Google Cloud AI Agent Trends 2026, CNBC Indonesia tentang tantangan dan digitalisasi UMKM, Reddit r/SaaS agent assist | NAIK"
         },
         {
-          "trend": "Social commerce & creator subscription",
-          "category": "Creator/E-commerce",
-          "date": "2026-10-14",
+          "trend": "Migrasi seller UMKM keluar marketplace (Shopee/TikTok Shop) gara-gara biaya admin 2,5-15%",
+          "category": "E-commerce/UMKM ID",
+          "date": "2026-10-24",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT seremonia.id + bisnis.com: komisi naik sejak Jan 2026, batas komisi per item Rp40rb jadi Rp650rb; margin marketplace seller cuma 5-20% (founderplus/BI) | NAIK"
+        },
+        {
+          "trend": "AI agent untuk kerjaan \"boring\" (missed call, follow-up, invoice chasing) bukan AI hype",
+          "category": "AI/SaaS Global",
+          "date": "2026-10-24",
           "score": null,
           "stage": "STABIL",
           "region": null,
-          "product": "Threads tiktokshop 257M, sidehustle 68M; subscription naikin revenue/user ~30%; TikTok Shop GMV $6.2M | STABIL"
+          "product": "OBSERVED Reddit sweep r/smallbusiness + r/AiForSmallBusiness: owner minta 1 workflow konkret, takut hallucination dan \"babysitting job\" | STABIL"
         },
         {
-          "trend": "Biaya tersembunyi & kepercayaan AI agent",
-          "category": "AI/FinOps",
-          "date": "2026-10-14",
-          "score": null,
-          "stage": "BARU",
-          "region": null,
-          "product": "biaya agent bisa lompat US$20rb->180rb/tahun; \"pile of monthly charges\" | BARU"
-        },
-        {
-          "trend": "Margin UMKM & pembayaran QRIS",
-          "category": "Fintech/UMKM",
-          "date": "2026-10-14",
+          "trend": "Outcome/usage-based pricing ganti per-seat karena agent ganti kerjaan manusia",
+          "category": "SaaS Global",
+          "date": "2026-10-24",
           "score": null,
           "stage": "NAIK",
           "region": null,
-          "product": "39,3jt merchant QRIS (93% UMKM), transaksi Q2 +100,12%; margin marketplace 5-20% | NAIK"
+          "product": "FACT Deloitte 2026 predictions + McKinsey 40% enterprise scaling agents vs 22% small | NAIK"
         }
       ]
     }
