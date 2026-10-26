@@ -1,8 +1,8 @@
 {
   "data": {
-    "updated_at": "2026-10-26T15:30:30+07:00",
+    "updated_at": "2026-10-26T15:30:42+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 4 tren dalam trend memory. Kategori dominan: AI/SaaS/UMKM. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "summary": "Laporan harian terakhir tercatat: 7 tren dalam trend memory. Kategori dominan: E-commerce/UMKM ID. Tren yang berulang (indikasi tren sejati): belum ada.",
     "top3": [],
     "insights": [],
     "regions": [],
@@ -21,8 +21,8 @@
     ],
     "memory": {
       "stats": {
-        "total": 4,
-        "dominant": "AI/SaaS/UMKM",
+        "total": 7,
+        "dominant": "E-commerce/UMKM ID",
         "repeating": []
       },
       "entries": [
@@ -61,6 +61,33 @@
           "stage": "NAIK",
           "region": null,
           "product": "FACT Deloitte 2026 predictions + McKinsey 40% enterprise scaling agents vs 22% small | NAIK"
+        },
+        {
+          "trend": "Diskon 50% Biaya Layanan E-Commerce untuk UMK (Mulai 25 Oktober 2026)",
+          "category": "E-commerce/UMKM ID",
+          "date": "2026-10-26",
+          "score": null,
+          "stage": "BARU",
+          "region": null,
+          "product": "FACT Kementerian UMKM (Kepmen No. 398/2026) via umkm.go.id & ukmindonesia.id | baru"
+        },
+        {
+          "trend": "Vertical AI Agents & Automated Workflow Ganti Horizontal SaaS",
+          "category": "AI/SaaS Global",
+          "date": "2026-10-26",
+          "score": null,
+          "stage": "STABIL",
+          "region": null,
+          "product": "FACT Deloitte 2026 & Skillgen 2.3x ROI vertical agents | STABIL"
+        },
+        {
+          "trend": "TikTok Shop Live & Affiliate Dominasi FMCG Indonesia (32% Pangsa Pasar)",
+          "category": "Creator Economy/Social Commerce",
+          "date": "2026-10-26",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT Magpie IQ & EchoTik 2026 Playbook | NAIK"
         }
       ]
     }
