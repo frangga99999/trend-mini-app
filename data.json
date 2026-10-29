@@ -1,27 +1,60 @@
 {
   "data": {
-    "updated_at": "2026-10-26T15:30:42+07:00",
+    "updated_at": "2026-10-29T09:04:38+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 7 tren dalam trend memory. Kategori dominan: E-commerce/UMKM ID. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "summary": "Laporan harian terakhir tercatat: 11 tren dalam trend memory. Kategori dominan: E-commerce/UMKM ID. Tren yang berulang (indikasi tren sejati): belum ada.",
     "top3": [],
     "insights": [],
     "regions": [],
     "products": [
       {
-        "title": "Usage",
+        "title": "Diskon 50% biaya e",
         "score": null,
         "target": null,
-        "problem": "based Pricing:** Perusahaan SaaS mulai ninggalin biaya langganan bulanan per-orang, diganti bayar sesuai seberapa banyak AI ngerjain tugas (misal per-invoice atau per-email). 🔥 7/10 — **NAIK**.",
+        "problem": "commerce untuk UMKM** — pemerintah memberikan insentif besar agar UMKM lebih berpartisipasi di dunia digital. 🔥 9/10 | NAIK",
         "solution": null,
         "mvp": null,
         "monetization": null,
         "validation": null,
         "sources": []
+      },
+      {
+        "title": "Biaya tinggi untuk berjualan di marketplace yang dapat mempengaruhi margin keuntungan UMKM.",
+        "score": null,
+        "target": null,
+        "problem": null,
+        "solution": null,
+        "mvp": null,
+        "monetization": null,
+        "validation": null,
+        "sources": []
+      },
+      {
+        "title": "Platform Manajemen Marketplace",
+        "score": null,
+        "target": "UMKM, biaya mulai: Rp5 juta, perkiraan penghasilan: Rp20-50 juta/bulan) | Verdict: BUILD.",
+        "problem": "Memfasilitasi UMKM untuk mengelola semua akun marketplace dengan biaya rendah. (Target: UMKM, biaya mulai: Rp5 juta, perkiraan penghasilan: Rp20-50 juta/bulan) | Verdict: BUILD.",
+        "solution": null,
+        "mvp": null,
+        "monetization": null,
+        "validation": "BUILD",
+        "sources": []
+      },
+      {
+        "title": "Layanan Automasi Tugas",
+        "score": null,
+        "target": "Pengusaha kecil, biaya mulai: Rp10 juta, perkiraan penghasilan: Rp15-30 juta/bulan) | Verdict: VALIDATE FIRST.",
+        "problem": "Menawarkan tool untuk mengautomasi tugas-tugas administratif, seperti invoicing dan follow-up. (Target: Pengusaha kecil, biaya mulai: Rp10 juta, perkiraan penghasilan: Rp15-30 juta/bulan) | Verdict: V",
+        "solution": null,
+        "mvp": null,
+        "monetization": null,
+        "validation": "VALIDATE FIRST",
+        "sources": []
       }
     ],
     "memory": {
       "stats": {
-        "total": 7,
+        "total": 11,
         "dominant": "E-commerce/UMKM ID",
         "repeating": []
       },
@@ -88,6 +121,42 @@
           "stage": "NAIK",
           "region": null,
           "product": "FACT Magpie IQ & EchoTik 2026 Playbook | NAIK"
+        },
+        {
+          "trend": "Diskon 50% biaya layanan marketplace resmi jalan 25 Okt 2026, tapi wajib daftar SAPA UMKM plus 2 tahap verifikasi (platform maks 10 hari, insentif 5 hari), harus input daftar SKU satu-satu",
+          "category": "E-commerce/UMKM ID",
+          "date": "2026-10-29",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT Permen UMKM 3/2026 dan Kepmen UMKM 398/2026 via detik.com (20 Okt 2026); 42.000 seller lokal terdata (Kompas, 7 Okt 2026) | NAIK"
+        },
+        {
+          "trend": "Biaya jalanin AI agent turun drastis: GPT-6.1 Terra rilis plus harga API computer-use dipotong 50%",
+          "category": "AI/Agents Global",
+          "date": "2026-10-29",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT AI Agents News Brief 27 Okt 2026 (OpenAI, Microsoft Foundry, IBM, SAP Joule) | NAIK"
+        },
+        {
+          "trend": "Cuma 3,51% UMKM punya laporan keuangan layak buat ngajuin kredit; 77% yang sudah nyatat masih manual buku/nota",
+          "category": "Fintech/UMKM ID",
+          "date": "2026-10-29",
+          "score": null,
+          "stage": "STABIL",
+          "region": null,
+          "product": "FACT OJK UMKM Finance Summit Agu 2026 via majuapps.com; OCBC-NielsenIQ 2024; 39,3 juta UMKM pakai QRIS (BI semester I 2025) | STABIL"
+        },
+        {
+          "trend": "Patokan harga jasa otomasi buat bisnis kecil: setup USD1.500-5.000 sekali plus retainer USD500-1.500/bulan",
+          "category": "AI/SaaS Global",
+          "date": "2026-10-29",
+          "score": null,
+          "stage": "STABIL",
+          "region": null,
+          "product": "FACT taskip.net pricing guide (dicek 20 Okt 2026) | STABIL"
         }
       ]
     }
