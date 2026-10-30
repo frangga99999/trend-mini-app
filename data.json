@@ -1,17 +1,84 @@
 {
   "data": {
-    "updated_at": "2026-10-29T09:04:38+07:00",
+    "updated_at": "2026-10-30T09:06:30+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 11 tren dalam trend memory. Kategori dominan: E-commerce/UMKM ID. Tren yang berulang (indikasi tren sejati): belum ada.",
-    "top3": [],
-    "insights": [],
-    "regions": [],
+    "summary": "Laporan harian terakhir tercatat: 17 tren dalam trend memory. Kategori dominan: E-commerce/UMKM ID. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "top3": [
+      {
+        "title": "Perang nama toko",
+        "score": "9",
+        "momentum": "BARU",
+        "global": null,
+        "indonesia": null,
+        "opportunity": "\"Official\" sekarang butuh surat** 🔥 9/10 — **BARU**",
+        "sources": []
+      },
+      {
+        "title": "Diskon 50% marketplace",
+        "score": "8",
+        "momentum": "NAIK",
+        "global": null,
+        "indonesia": null,
+        "opportunity": "hari ini hari tarikan data** 🔥 8/10 — **NAIK**",
+        "sources": []
+      },
+      {
+        "title": "AI agent pindah ke cloud, automasi mulai \"belajar sendiri\"** 🔥 7/10",
+        "score": "7",
+        "momentum": "NAIK",
+        "global": null,
+        "indonesia": null,
+        "opportunity": "**NAIK**",
+        "sources": []
+      }
+    ],
+    "insights": [
+      {
+        "title": "Perang nama toko",
+        "what": "\"Official\" sekarang butuh surat** 🔥 9/10 — **BARU**",
+        "pain": null,
+        "target": null,
+        "existing": null,
+        "opportunity": "\"Official\" sekarang butuh surat** 🔥 9/10 — **BARU**",
+        "opportunity_score": "9",
+        "sources": null
+      },
+      {
+        "title": "Diskon 50% marketplace",
+        "what": "hari ini hari tarikan data** 🔥 8/10 — **NAIK**",
+        "pain": null,
+        "target": null,
+        "existing": null,
+        "opportunity": "hari ini hari tarikan data** 🔥 8/10 — **NAIK**",
+        "opportunity_score": "8",
+        "sources": null
+      },
+      {
+        "title": "AI agent pindah ke cloud, automasi mulai \"belajar sendiri\"** 🔥 7/10",
+        "what": "**NAIK**",
+        "pain": null,
+        "target": null,
+        "existing": null,
+        "opportunity": "**NAIK**",
+        "opportunity_score": "7",
+        "sources": null
+      }
+    ],
+    "regions": [
+      {
+        "region": "Indonesia vs Global",
+        "trend": "**🇮🇩 Indonesia vs 🌍 Global (tren utama):**",
+        "signal": null,
+        "opportunity": null,
+        "sources": []
+      }
+    ],
     "products": [
       {
-        "title": "Diskon 50% biaya e",
+        "title": "UMKM korban bencana Sumatera butuh modal cepat.** 112.849 usaha mikro di Aceh, Sumut, Sumbar dapat Banpres Rp3 juta, cair pekan ini, target sebelum Desember (FACT",
         "score": null,
         "target": null,
-        "problem": "commerce untuk UMKM** — pemerintah memberikan insentif besar agar UMKM lebih berpartisipasi di dunia digital. 🔥 9/10 | NAIK",
+        "problem": "Kompas 28 Okt, kumparan). Hambatan lapangannya biasanya administrasi: rekening, data usaha, verifikasi (PERKIRAAN).",
         "solution": null,
         "mvp": null,
         "monetization": null,
@@ -19,42 +86,20 @@
         "sources": []
       },
       {
-        "title": "Biaya tinggi untuk berjualan di marketplace yang dapat mempengaruhi margin keuntungan UMKM.",
+        "title": "Rekap omzet & bukti transaksi buat ajukan KUR/fintech.** Nyambung ke data",
         "score": null,
         "target": null,
-        "problem": null,
+        "problem": "pembiayaan fintech ke UMKM sudah Rp35,12 triliun (+23,25% yoy) per Juni 2026 (FACT: OJK via Kontan), tapi cuma 3,51% UMKM punya laporan keuangan yang layak. Otomasi: tarik mutasi/QRIS → jadi laporan 6",
         "solution": null,
         "mvp": null,
         "monetization": null,
         "validation": null,
-        "sources": []
-      },
-      {
-        "title": "Platform Manajemen Marketplace",
-        "score": null,
-        "target": "UMKM, biaya mulai: Rp5 juta, perkiraan penghasilan: Rp20-50 juta/bulan) | Verdict: BUILD.",
-        "problem": "Memfasilitasi UMKM untuk mengelola semua akun marketplace dengan biaya rendah. (Target: UMKM, biaya mulai: Rp5 juta, perkiraan penghasilan: Rp20-50 juta/bulan) | Verdict: BUILD.",
-        "solution": null,
-        "mvp": null,
-        "monetization": null,
-        "validation": "BUILD",
-        "sources": []
-      },
-      {
-        "title": "Layanan Automasi Tugas",
-        "score": null,
-        "target": "Pengusaha kecil, biaya mulai: Rp10 juta, perkiraan penghasilan: Rp15-30 juta/bulan) | Verdict: VALIDATE FIRST.",
-        "problem": "Menawarkan tool untuk mengautomasi tugas-tugas administratif, seperti invoicing dan follow-up. (Target: Pengusaha kecil, biaya mulai: Rp10 juta, perkiraan penghasilan: Rp15-30 juta/bulan) | Verdict: V",
-        "solution": null,
-        "mvp": null,
-        "monetization": null,
-        "validation": "VALIDATE FIRST",
         "sources": []
       }
     ],
     "memory": {
       "stats": {
-        "total": 11,
+        "total": 17,
         "dominant": "E-commerce/UMKM ID",
         "repeating": []
       },
@@ -157,6 +202,60 @@
           "stage": "STABIL",
           "region": null,
           "product": "FACT taskip.net pricing guide (dicek 20 Okt 2026) | STABIL"
+        },
+        {
+          "trend": "Perang nama toko Shopee: kata \"official/resmi/authorized\" wajib HAKI Kelas 35 sejak 1 Sep 2026, gelombang peringatan masih jalan dan seller cuma dapat 5 hari buat reaksi",
+          "category": "E-commerce/Legalitas ID",
+          "date": "2026-10-30",
+          "score": null,
+          "stage": "BARU",
+          "region": null,
+          "product": "FACT FAQ Pelanggaran Nama Toko Shopee via ukmindonesia.id (29 Sep 2026) + bigseller.com (29 Okt 2026) | BARU"
+        },
+        {
+          "trend": "Biaya daftar merek turun jalur UMK: Rp500rb/kelas (PP 30/2026) vs Rp2,8 juta kelas umum, syarat surat rekomendasi",
+          "category": "Legalitas/UMKM ID",
+          "date": "2026-10-30",
+          "score": null,
+          "stage": "BARU",
+          "region": null,
+          "product": "FACT PP 30/2026 via panritalegal.com, cepatlegal.id, seremonia.id (Okt 2026) | BARU"
+        },
+        {
+          "trend": "Jendela SAPA UMKM: data ditarik marketplace tiap Jumat, submit sebelum Jumat 30 Okt 2026 = potongan 50% aktif paling lambat 14 Nov 2026",
+          "category": "E-commerce/UMKM ID",
+          "date": "2026-10-30",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT Kepmen UMKM 398/2026 via ukmindonesia.id (25 Okt 2026) | NAIK"
+        },
+        {
+          "trend": "AI agent pindah ke cloud: GitHub Copilot cloud sessions + Automations yang belajar dari hasil sejak 28 Okt 2026; Snowflake Cortex tambah kontrol reasoning",
+          "category": "AI/Agents Global",
+          "date": "2026-10-30",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT aiagentstore.ai AI Agents News (29 Okt 2026) | NAIK"
+        },
+        {
+          "trend": "Pasar \"AI receptionist\" buat bisnis kecil mulai sesak: pencarian Reddit r/smallbusiness didominasi iklan vendor (InferNex, Callxcel), bukan keluhan organik",
+          "category": "AI/SaaS Global",
+          "date": "2026-10-30",
+          "score": null,
+          "stage": "TURUN",
+          "region": null,
+          "product": "OBSERVED hasil pencarian site:reddit.com (30 Okt 2026); akses langsung Reddit/Threads diblokir | TURUN"
+        },
+        {
+          "trend": "Wajib halal UMK diundur ke 17 Okt 2028, plus Banpres Rp3 juta buat 112.849 usaha mikro korban bencana Aceh-Sumut-Sumbar cair pekan ini",
+          "category": "Regulasi/Kebencanaan ID",
+          "date": "2026-10-30",
+          "score": null,
+          "stage": "BARU",
+          "region": null,
+          "product": "FACT headline ukmindonesia.id + Kompas.com (28 Okt 2026), kumparan | BARU"
         }
       ]
     }
