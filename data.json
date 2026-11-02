@@ -1,15 +1,42 @@
 {
   "data": {
-    "updated_at": "2026-11-01T09:11:51+07:00",
+    "updated_at": "2026-11-02T09:10:50+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 20 tren dalam trend memory. Kategori dominan: E-commerce/UMKM ID. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "summary": "Laporan harian terakhir tercatat: 27 tren dalam trend memory. Kategori dominan: E-commerce/UMKM ID. Tren yang berulang (indikasi tren sejati): belum ada.",
     "top3": [],
     "insights": [],
-    "regions": [],
-    "products": [],
+    "regions": [
+      {
+        "region": "Indonesia vs Global",
+        "trend": "- **Indonesia vs global:** Di Indonesia, peluang dekat berasal dari alur administrasi seller dan kebutuhan pencatatan usaha; solusi perlu sederhana dan akrab dengan WhatsApp. Secara global, AI agent b",
+        "signal": null,
+        "opportunity": null,
+        "sources": []
+      },
+      {
+        "region": "Indonesia vs Global",
+        "trend": "- [UKMIndonesia — alur diskon dan verifikasi](https://ukmindonesia.id/baca-deskripsi-posts/diskon-50-biaya-layanan-marketplace-berlaku-25-oktober-2026-alur-dan-jadwal-verifikasinya)",
+        "signal": null,
+        "opportunity": null,
+        "sources": []
+      }
+    ],
+    "products": [
+      {
+        "title": "🥇 **Pengajuan diskon biaya marketplace UMK",
+        "score": null,
+        "target": null,
+        "problem": "Potongan minimal 50% berlaku untuk UMK yang memenuhi syarat, tetapi tidak otomatis dan perlu diajukan. 🔥 **8/10 — NAIK**",
+        "solution": null,
+        "mvp": null,
+        "monetization": null,
+        "validation": null,
+        "sources": []
+      }
+    ],
     "memory": {
       "stats": {
-        "total": 20,
+        "total": 27,
         "dominant": "E-commerce/UMKM ID",
         "repeating": []
       },
@@ -193,6 +220,69 @@
           "stage": "NAIK",
           "region": null,
           "product": "OBSERVED hasil pencarian Krisnala, CatatWA, Super Kilat; kebutuhan lama pembukuan manual tetap relevan | NAIK"
+        },
+        {
+          "trend": "Rupiah tembus Rp18.147/USD dan IHSG jatuh 16,7% sepanjang Oktober 2026, konsumsi rumah tangga Q3 tertekan",
+          "category": "Makro/Daya Beli ID",
+          "date": "2026-11-02",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT bisnis.com 2 Nov 2026 (Rp18.147, -0,06%, prediksi 18.000-18.320 pekan ini); mediasaham (IHSG -16,7% Okt); Kontan 12 Okt 2026 (daya beli tertekan) | NAIK"
+        },
+        {
+          "trend": "PPh 22 0,5% dipungut marketplace sejak 1 Agu 2026 dan omzet digabung lintas platform, jadi ambang Rp500 juta gampang kelewat",
+          "category": "E-commerce/Pajak ID",
+          "date": "2026-11-02",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT PMK 37/2025 via pajak.go.id, ortax, kompas.id; keluhan seller soal dasar omzet bruto (persen.id 31 Jul 2026) | NAIK"
+        },
+        {
+          "trend": "Diskon 50% biaya marketplace sudah jalan tapi berubah jadi beban administrasi baru (SAPA UMKM, verifikasi sampai 15 hari kerja, input SKU) di tengah potongan total sampai 20% omzet",
+          "category": "E-commerce/UMKM ID",
+          "date": "2026-11-02",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT industry.co.id 2 Nov 2026 + beritasatu (potongan 20% omzet) + supersellerid (alur verifikasi) | NAIK"
+        },
+        {
+          "trend": "Reality check AI global: saham Alphabet anjlok 13% pada 29 Okt 2026 (terburuk sejak IPO 2004), investor tagih bukti untung investasi AI",
+          "category": "AI/SaaS Global",
+          "date": "2026-11-02",
+          "score": null,
+          "stage": "BARU",
+          "region": null,
+          "product": "FACT Kompas.com, IDNTimes, Medcom; Google Cloud naik 103% tapi biaya AI membengkak | BARU"
+        },
+        {
+          "trend": "Adopsi AI UMKM Indonesia 36,8 persen (survei Lalamove 300+ responden), tapi mayoritas baru dipakai buat konten dan marketing bukan operasional",
+          "category": "AI/UMKM ID",
+          "date": "2026-11-02",
+          "score": null,
+          "stage": "BARU",
+          "region": null,
+          "product": "FACT Lalamove Survei UMKM 2026 via tribunnews, inews, bisnis.com 27-28 Okt 2026 | BARU"
+        },
+        {
+          "trend": "Threads: seller minta cara jualan tanpa marketplace dan cari distributor harga miring; pemilik bisnis offline 14 tahun belum ketemu ritme jualan online",
+          "category": "E-commerce/Social ID",
+          "date": "2026-11-02",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "OBSERVED Threads tag #jualanonline #umkm #shopee (2 Nov 2026, via proxy baca); Reddit diblokir total | NAIK"
+        },
+        {
+          "trend": "Wajah kreator dipakai konten AI penipuan, PANDI gandeng Privy garap verifikasi identitas digital domain .id",
+          "category": "Creator Economy/Trust ID",
+          "date": "2026-11-02",
+          "score": null,
+          "stage": "BARU",
+          "region": null,
+          "product": "OBSERVED Medcom 31 Okt 2026 + Katadata 2 Nov 2026 | BARU"
         }
       ]
     }
