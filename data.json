@@ -1,39 +1,86 @@
 {
   "data": {
-    "updated_at": "2026-11-02T09:10:50+07:00",
+    "updated_at": "2026-11-03T17:23:08+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
     "summary": "Laporan harian terakhir tercatat: 27 tren dalam trend memory. Kategori dominan: E-commerce/UMKM ID. Tren yang berulang (indikasi tren sejati): belum ada.",
-    "top3": [],
-    "insights": [],
+    "top3": [
+      {
+        "title": "Rupiah Rp18.147 & IHSG anjlok",
+        "score": "9",
+        "momentum": "NAIK",
+        "global": null,
+        "indonesia": null,
+        "opportunity": "\"dagang makin mepet\"** — Modal naik, harga jual nggak berani naik, pembeli nunda belanja. 🔥 9/10 — **NAIK**",
+        "sources": []
+      },
+      {
+        "title": "Pajak + biaya marketplace numpuk jadi satu",
+        "score": "8",
+        "momentum": "NAIK",
+        "global": null,
+        "indonesia": null,
+        "opportunity": "PPh 22 0,5% dipungut otomatis sejak 1 Agustus, omzet digabung lintas platform, belum lagi komisi & iklan. 🔥 8/10 — **NAIK**",
+        "sources": []
+      },
+      {
+        "title": "Reality check AI",
+        "score": "7",
+        "momentum": "BARU",
+        "global": null,
+        "indonesia": null,
+        "opportunity": "investor nagih hasil** — Saham Alphabet anjlok 13% (29 Okt), terburuk sejak IPO 2004, gara-gara biaya AI membengkak tapi iklan melambat. 🔥 7/10 — **BARU**",
+        "sources": []
+      }
+    ],
+    "insights": [
+      {
+        "title": "Rupiah Rp18.147 & IHSG anjlok",
+        "what": "\"dagang makin mepet\"** — Modal naik, harga jual nggak berani naik, pembeli nunda belanja. 🔥 9/10 — **NAIK**",
+        "pain": null,
+        "target": null,
+        "existing": null,
+        "opportunity": "\"dagang makin mepet\"** — Modal naik, harga jual nggak berani naik, pembeli nunda belanja. 🔥 9/10 — **NAIK**",
+        "opportunity_score": "9",
+        "sources": null
+      },
+      {
+        "title": "Pajak + biaya marketplace numpuk jadi satu",
+        "what": "PPh 22 0,5% dipungut otomatis sejak 1 Agustus, omzet digabung lintas platform, belum lagi komisi & iklan. 🔥 8/10 — **NAIK**",
+        "pain": null,
+        "target": null,
+        "existing": null,
+        "opportunity": "PPh 22 0,5% dipungut otomatis sejak 1 Agustus, omzet digabung lintas platform, belum lagi komisi & iklan. 🔥 8/10 — **NAIK**",
+        "opportunity_score": "8",
+        "sources": null
+      },
+      {
+        "title": "Reality check AI",
+        "what": "investor nagih hasil** — Saham Alphabet anjlok 13% (29 Okt), terburuk sejak IPO 2004, gara-gara biaya AI membengkak tapi iklan melambat. 🔥 7/10 — **BARU**",
+        "pain": null,
+        "target": null,
+        "existing": null,
+        "opportunity": "investor nagih hasil** — Saham Alphabet anjlok 13% (29 Okt), terburuk sejak IPO 2004, gara-gara biaya AI membengkak tapi iklan melambat. 🔥 7/10 — **BARU**",
+        "opportunity_score": "7",
+        "sources": null
+      }
+    ],
     "regions": [
       {
         "region": "Indonesia vs Global",
-        "trend": "- **Indonesia vs global:** Di Indonesia, peluang dekat berasal dari alur administrasi seller dan kebutuhan pencatatan usaha; solusi perlu sederhana dan akrab dengan WhatsApp. Secara global, AI agent b",
+        "trend": "**🌏 Indonesia vs Global (tren utama)**",
         "signal": null,
         "opportunity": null,
         "sources": []
       },
       {
         "region": "Indonesia vs Global",
-        "trend": "- [UKMIndonesia — alur diskon dan verifikasi](https://ukmindonesia.id/baca-deskripsi-posts/diskon-50-biaya-layanan-marketplace-berlaku-25-oktober-2026-alur-dan-jadwal-verifikasinya)",
+        "trend": "- **Indonesia:** adopsi AI UMKM sebenarnya sudah jalan — **36,8% UMKM pakai AI** (Survei Lalamove 2026, 300+ responden, Okt 2026), tapi mayoritas cuma buat bikin konten & marketing. Operasional (pembu",
         "signal": null,
         "opportunity": null,
         "sources": []
       }
     ],
-    "products": [
-      {
-        "title": "🥇 **Pengajuan diskon biaya marketplace UMK",
-        "score": null,
-        "target": null,
-        "problem": "Potongan minimal 50% berlaku untuk UMK yang memenuhi syarat, tetapi tidak otomatis dan perlu diajukan. 🔥 **8/10 — NAIK**",
-        "solution": null,
-        "mvp": null,
-        "monetization": null,
-        "validation": null,
-        "sources": []
-      }
-    ],
+    "products": [],
     "memory": {
       "stats": {
         "total": 27,
