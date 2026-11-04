@@ -1,102 +1,19 @@
 {
   "data": {
-    "updated_at": "2026-11-03T17:23:08+07:00",
+    "updated_at": "2026-11-04T17:13:03+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 27 tren dalam trend memory. Kategori dominan: E-commerce/UMKM ID. Tren yang berulang (indikasi tren sejati): belum ada.",
-    "top3": [
-      {
-        "title": "Rupiah Rp18.147 & IHSG anjlok",
-        "score": "9",
-        "momentum": "NAIK",
-        "global": null,
-        "indonesia": null,
-        "opportunity": "\"dagang makin mepet\"** — Modal naik, harga jual nggak berani naik, pembeli nunda belanja. 🔥 9/10 — **NAIK**",
-        "sources": []
-      },
-      {
-        "title": "Pajak + biaya marketplace numpuk jadi satu",
-        "score": "8",
-        "momentum": "NAIK",
-        "global": null,
-        "indonesia": null,
-        "opportunity": "PPh 22 0,5% dipungut otomatis sejak 1 Agustus, omzet digabung lintas platform, belum lagi komisi & iklan. 🔥 8/10 — **NAIK**",
-        "sources": []
-      },
-      {
-        "title": "Reality check AI",
-        "score": "7",
-        "momentum": "BARU",
-        "global": null,
-        "indonesia": null,
-        "opportunity": "investor nagih hasil** — Saham Alphabet anjlok 13% (29 Okt), terburuk sejak IPO 2004, gara-gara biaya AI membengkak tapi iklan melambat. 🔥 7/10 — **BARU**",
-        "sources": []
-      }
-    ],
-    "insights": [
-      {
-        "title": "Rupiah Rp18.147 & IHSG anjlok",
-        "what": "\"dagang makin mepet\"** — Modal naik, harga jual nggak berani naik, pembeli nunda belanja. 🔥 9/10 — **NAIK**",
-        "pain": null,
-        "target": null,
-        "existing": null,
-        "opportunity": "\"dagang makin mepet\"** — Modal naik, harga jual nggak berani naik, pembeli nunda belanja. 🔥 9/10 — **NAIK**",
-        "opportunity_score": "9",
-        "sources": null
-      },
-      {
-        "title": "Pajak + biaya marketplace numpuk jadi satu",
-        "what": "PPh 22 0,5% dipungut otomatis sejak 1 Agustus, omzet digabung lintas platform, belum lagi komisi & iklan. 🔥 8/10 — **NAIK**",
-        "pain": null,
-        "target": null,
-        "existing": null,
-        "opportunity": "PPh 22 0,5% dipungut otomatis sejak 1 Agustus, omzet digabung lintas platform, belum lagi komisi & iklan. 🔥 8/10 — **NAIK**",
-        "opportunity_score": "8",
-        "sources": null
-      },
-      {
-        "title": "Reality check AI",
-        "what": "investor nagih hasil** — Saham Alphabet anjlok 13% (29 Okt), terburuk sejak IPO 2004, gara-gara biaya AI membengkak tapi iklan melambat. 🔥 7/10 — **BARU**",
-        "pain": null,
-        "target": null,
-        "existing": null,
-        "opportunity": "investor nagih hasil** — Saham Alphabet anjlok 13% (29 Okt), terburuk sejak IPO 2004, gara-gara biaya AI membengkak tapi iklan melambat. 🔥 7/10 — **BARU**",
-        "opportunity_score": "7",
-        "sources": null
-      }
-    ],
-    "regions": [
-      {
-        "region": "Indonesia vs Global",
-        "trend": "**🌏 Indonesia vs Global (tren utama)**",
-        "signal": null,
-        "opportunity": null,
-        "sources": []
-      },
-      {
-        "region": "Indonesia vs Global",
-        "trend": "- **Indonesia:** adopsi AI UMKM sebenarnya sudah jalan — **36,8% UMKM pakai AI** (Survei Lalamove 2026, 300+ responden, Okt 2026), tapi mayoritas cuma buat bikin konten & marketing. Operasional (pembu",
-        "signal": null,
-        "opportunity": null,
-        "sources": []
-      }
-    ],
+    "summary": "Laporan harian terakhir tercatat: 31 tren dalam trend memory. Kategori dominan: E-commerce/UMKM ID. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "top3": [],
+    "insights": [],
+    "regions": [],
     "products": [],
     "memory": {
       "stats": {
-        "total": 27,
+        "total": 31,
         "dominant": "E-commerce/UMKM ID",
         "repeating": []
       },
       "entries": [
-        {
-          "trend": "Agentic AI & Otomasi Operasional UMKM",
-          "category": "AI/SaaS/UMKM",
-          "date": "2026-10-16",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "Google Cloud AI Agent Trends 2026, CNBC Indonesia tentang tantangan dan digitalisasi UMKM, Reddit r/SaaS agent assist | NAIK"
-        },
         {
           "trend": "Migrasi seller UMKM keluar marketplace (Shopee/TikTok Shop) gara-gara biaya admin 2,5-15%",
           "category": "E-commerce/UMKM ID",
@@ -330,6 +247,42 @@
           "stage": "BARU",
           "region": null,
           "product": "OBSERVED Medcom 31 Okt 2026 + Katadata 2 Nov 2026 | BARU"
+        },
+        {
+          "trend": "Otomasi berbasis aturan lebih masuk akal daripada AI agent untuk alur tetap: contoh 10.000 email USD20/bulan vs agent personalisasi USD200-800/bulan",
+          "category": "AI/SaaS Global",
+          "date": "2026-11-04",
+          "score": null,
+          "stage": "BARU",
+          "region": null,
+          "product": "FACT The Crunch, artikel diperbarui 16 Sep 2026; angka vendor, bukan audit independen | BARU"
+        },
+        {
+          "trend": "Diskon 50% biaya marketplace UMK tetap relevan, tetapi pencarian hari ini belum menemukan bukti baru soal hasil eksekusi atau keluhan penerima",
+          "category": "E-commerce/UMKM ID",
+          "date": "2026-11-04",
+          "score": null,
+          "stage": "STABIL",
+          "region": null,
+          "product": "FACT Bisnis.com soal program; OBSERVED sinyal baru web dan sosial terbatas | STABIL"
+        },
+        {
+          "trend": "Rupiah masih melemah tipis 8 poin ke Rp18.225/USD meski surplus perdagangan dirilis",
+          "category": "Makro/Daya Beli ID",
+          "date": "2026-11-04",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT ANTARA 4 Nov 2026 | NAIK"
+        },
+        {
+          "trend": "Threads tag UMKM dapat dimuat tetapi post nyata tidak terbaca; Reddit diblokir 403, X tidak terverifikasi",
+          "category": "Social signal",
+          "date": "2026-11-04",
+          "score": null,
+          "stage": "STABIL",
+          "region": null,
+          "product": "OBSERVED akses langsung 4 Nov 2026; sinyal sosial terbatas | STABIL"
         }
       ]
     }
