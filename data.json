@@ -1,28 +1,83 @@
 {
   "data": {
-    "updated_at": "2026-11-04T17:13:03+07:00",
+    "updated_at": "2026-11-05T09:25:18+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 31 tren dalam trend memory. Kategori dominan: E-commerce/UMKM ID. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "summary": "Laporan harian terakhir tercatat: 32 tren dalam trend memory. Kategori dominan: E-commerce/UMKM ID. Tren yang berulang (indikasi tren sejati): belum ada.",
     "top3": [],
     "insights": [],
-    "regions": [],
-    "products": [],
+    "regions": [
+      {
+        "region": "Indonesia vs Global",
+        "trend": "- **🌏 Indonesia vs global:** Secara global, artikel yang ditemukan menekankan biaya keputusan AI dan model bayar berdasarkan penggunaan. Di Indonesia, peluang lebih dekat ke masalah konkret seller—adm",
+        "signal": null,
+        "opportunity": null,
+        "sources": []
+      }
+    ],
+    "products": [
+      {
+        "title": "🥇 **Bantuan potongan biaya marketplace untuk UMK",
+        "score": null,
+        "target": null,
+        "problem": "Aturan diskon 50% masih jadi peluang menghemat biaya, tapi laporan terbaru hari ini soal hasil penerimaannya belum ditemukan. **🔥 7/10 · STABIL**",
+        "solution": null,
+        "mvp": null,
+        "monetization": null,
+        "validation": null,
+        "sources": []
+      },
+      {
+        "title": "🥉 **Pembukuan dan urusan administrasi UMKM",
+        "score": null,
+        "target": null,
+        "problem": "Masih relevan dari riwayat tren: seller perlu mencatat transaksi, biaya, pajak, dan stok lintas kanal. Namun sinyal sosial hari ini terbatas. **🔥 6/10 · STABIL**",
+        "solution": null,
+        "mvp": null,
+        "monetization": null,
+        "validation": null,
+        "sources": []
+      },
+      {
+        "title": "Jasa bantu rapikan pengajuan insentif marketplace",
+        "score": null,
+        "target": null,
+        "problem": "Membantu seller mengecek kelayakan, menyiapkan berkas, dan merapikan SKU. Dibutuhkan UMK yang kewalahan dengan administrasi; sekarang kemungkinan dikerjakan sendiri atau dibantu staf. Mulai sebagai ja",
+        "solution": null,
+        "mvp": "PERKIRAAN:** Rp1–5 juta untuk materi, alat kerja, dan promosi awal. **Penghasilan PERKIRAAN:** Rp3–15 juta/bulan bila mendapat 10–30 klien dengan tari",
+        "monetization": null,
+        "validation": null,
+        "sources": []
+      },
+      {
+        "title": "Pembukuan sederhana dari WhatsApp",
+        "score": null,
+        "target": null,
+        "problem": "Mencatat pemasukan, biaya, dan stok lewat format pesan, lalu mengirim rekap mingguan. Dibutuhkan pedagang kecil yang masih menulis di buku; cara sekarang manual atau spreadsheet. Bisa dijual sebagai l",
+        "solution": null,
+        "mvp": "PERKIRAAN:** Rp2–10 juta untuk prototipe dan uji coba. **Penghasilan PERKIRAAN:** Rp2–10 juta/bulan bila 50–200 pengguna membayar Rp40–50 ribu; belum ",
+        "monetization": null,
+        "validation": null,
+        "sources": []
+      },
+      {
+        "title": "Otomasi follow",
+        "score": null,
+        "target": null,
+        "problem": "up pesanan dan invoice** — Mengingatkan pelanggan dan menandai pembayaran terlambat lewat alur otomatis sederhana. Artikel The Crunch menyebut contoh biaya USD20/bulan untuk alur email aturan tetap di",
+        "solution": null,
+        "mvp": "PERKIRAAN:** Rp1–5 juta untuk alat dan uji coba. **Penghasilan PERKIRAAN:** Rp3–15 juta/bulan dari 5–15 klien dengan paket Rp600 ribu–Rp1 juta; tergan",
+        "monetization": null,
+        "validation": null,
+        "sources": []
+      }
+    ],
     "memory": {
       "stats": {
-        "total": 31,
+        "total": 32,
         "dominant": "E-commerce/UMKM ID",
         "repeating": []
       },
       "entries": [
-        {
-          "trend": "Migrasi seller UMKM keluar marketplace (Shopee/TikTok Shop) gara-gara biaya admin 2,5-15%",
-          "category": "E-commerce/UMKM ID",
-          "date": "2026-10-24",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT seremonia.id + bisnis.com: komisi naik sejak Jan 2026, batas komisi per item Rp40rb jadi Rp650rb; margin marketplace seller cuma 5-20% (founderplus/BI) | NAIK"
-        },
         {
           "trend": "AI agent untuk kerjaan \"boring\" (missed call, follow-up, invoice chasing) bukan AI hype",
           "category": "AI/SaaS Global",
@@ -283,6 +338,15 @@
           "stage": "STABIL",
           "region": null,
           "product": "OBSERVED akses langsung 4 Nov 2026; sinyal sosial terbatas | STABIL"
+        },
+        {
+          "trend": "PPh Pasal 22 Otomatis di 4 Marketplace & Tekanan Rupiah Rp18.168/USD",
+          "category": "E-commerce/Fintech ID",
+          "date": "2026-11-05",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT Tirto, DDTC, Ortax, Kontan Nov 2026 | NAIK"
         }
       ]
     }
