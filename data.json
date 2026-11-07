@@ -1,352 +1,45 @@
 {
   "data": {
-    "updated_at": "2026-11-05T09:25:18+07:00",
+    "updated_at": "2026-11-07T09:01:54+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 32 tren dalam trend memory. Kategori dominan: E-commerce/UMKM ID. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "summary": "Laporan harian terakhir tercatat: 3 tren dalam trend memory. Kategori dominan: Creator Economy Global. Tren yang berulang (indikasi tren sejati): belum ada.",
     "top3": [],
     "insights": [],
-    "regions": [
-      {
-        "region": "Indonesia vs Global",
-        "trend": "- **🌏 Indonesia vs global:** Secara global, artikel yang ditemukan menekankan biaya keputusan AI dan model bayar berdasarkan penggunaan. Di Indonesia, peluang lebih dekat ke masalah konkret seller—adm",
-        "signal": null,
-        "opportunity": null,
-        "sources": []
-      }
-    ],
-    "products": [
-      {
-        "title": "🥇 **Bantuan potongan biaya marketplace untuk UMK",
-        "score": null,
-        "target": null,
-        "problem": "Aturan diskon 50% masih jadi peluang menghemat biaya, tapi laporan terbaru hari ini soal hasil penerimaannya belum ditemukan. **🔥 7/10 · STABIL**",
-        "solution": null,
-        "mvp": null,
-        "monetization": null,
-        "validation": null,
-        "sources": []
-      },
-      {
-        "title": "🥉 **Pembukuan dan urusan administrasi UMKM",
-        "score": null,
-        "target": null,
-        "problem": "Masih relevan dari riwayat tren: seller perlu mencatat transaksi, biaya, pajak, dan stok lintas kanal. Namun sinyal sosial hari ini terbatas. **🔥 6/10 · STABIL**",
-        "solution": null,
-        "mvp": null,
-        "monetization": null,
-        "validation": null,
-        "sources": []
-      },
-      {
-        "title": "Jasa bantu rapikan pengajuan insentif marketplace",
-        "score": null,
-        "target": null,
-        "problem": "Membantu seller mengecek kelayakan, menyiapkan berkas, dan merapikan SKU. Dibutuhkan UMK yang kewalahan dengan administrasi; sekarang kemungkinan dikerjakan sendiri atau dibantu staf. Mulai sebagai ja",
-        "solution": null,
-        "mvp": "PERKIRAAN:** Rp1–5 juta untuk materi, alat kerja, dan promosi awal. **Penghasilan PERKIRAAN:** Rp3–15 juta/bulan bila mendapat 10–30 klien dengan tari",
-        "monetization": null,
-        "validation": null,
-        "sources": []
-      },
-      {
-        "title": "Pembukuan sederhana dari WhatsApp",
-        "score": null,
-        "target": null,
-        "problem": "Mencatat pemasukan, biaya, dan stok lewat format pesan, lalu mengirim rekap mingguan. Dibutuhkan pedagang kecil yang masih menulis di buku; cara sekarang manual atau spreadsheet. Bisa dijual sebagai l",
-        "solution": null,
-        "mvp": "PERKIRAAN:** Rp2–10 juta untuk prototipe dan uji coba. **Penghasilan PERKIRAAN:** Rp2–10 juta/bulan bila 50–200 pengguna membayar Rp40–50 ribu; belum ",
-        "monetization": null,
-        "validation": null,
-        "sources": []
-      },
-      {
-        "title": "Otomasi follow",
-        "score": null,
-        "target": null,
-        "problem": "up pesanan dan invoice** — Mengingatkan pelanggan dan menandai pembayaran terlambat lewat alur otomatis sederhana. Artikel The Crunch menyebut contoh biaya USD20/bulan untuk alur email aturan tetap di",
-        "solution": null,
-        "mvp": "PERKIRAAN:** Rp1–5 juta untuk alat dan uji coba. **Penghasilan PERKIRAAN:** Rp3–15 juta/bulan dari 5–15 klien dengan paket Rp600 ribu–Rp1 juta; tergan",
-        "monetization": null,
-        "validation": null,
-        "sources": []
-      }
-    ],
+    "regions": [],
+    "products": [],
     "memory": {
       "stats": {
-        "total": 32,
-        "dominant": "E-commerce/UMKM ID",
+        "total": 3,
+        "dominant": "Creator Economy Global",
         "repeating": []
       },
       "entries": [
         {
-          "trend": "AI agent untuk kerjaan \"boring\" (missed call, follow-up, invoice chasing) bukan AI hype",
-          "category": "AI/SaaS Global",
-          "date": "2026-10-24",
+          "trend": "UMKM semua lini kena PPh 22 otomatis 0,5% per 1 Nov meski omzet < Rp500 juta mesti klaim sendiri, margin makin tipis, keluhan seller marketplace makin banyak soal administrasi; solusi pembukuan & perhitungan pajak otomatis makin dicari",
+          "category": "E-commerce/UMKM/Fintech ID",
+          "date": "2026-11-07",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT Katadata, swsconsulting.co.id, Pikiran Rakyat, Roshanimranlaw.com, laporan Reddit & TikTok: pelaku usaha kecil protes kejelasan, pilihan keluar marketplace makin ramai | NAIK"
+        },
+        {
+          "trend": "AI agent SaaS makin push ke SMB & operasional riil, bukan hype marketing, tapi adopsi global tetap didominasi promosi vendor bukan keluhan organik; model pembayaran outcome (berbasis hasil) pelan-pelan geser model subscription di luar negeri",
+          "category": "AI/SaaS Global/ID",
+          "date": "2026-11-07",
           "score": null,
           "stage": "STABIL",
           "region": null,
-          "product": "OBSERVED Reddit sweep r/smallbusiness + r/AiForSmallBusiness: owner minta 1 workflow konkret, takut hallucination dan \"babysitting job\" | STABIL"
+          "product": "FACT Deloitte, r/smallbusiness, laporan Reddit 2026 | STABIL"
         },
         {
-          "trend": "Outcome/usage-based pricing ganti per-seat karena agent ganti kerjaan manusia",
-          "category": "SaaS Global",
-          "date": "2026-10-24",
+          "trend": "Creator Economy: AI bukan musuh kreator tapi jadi asisten operasional (bikin laporan, data engagement, riset produk/ide), tren \"boring business\" (pembukuan, update inventaris, laporan otomatis) makin naik value dibanding ide viral",
+          "category": "Creator Economy Global",
+          "date": "2026-11-07",
           "score": null,
-          "stage": "NAIK",
+          "stage": null,
           "region": null,
-          "product": "FACT Deloitte 2026 predictions + McKinsey 40% enterprise scaling agents vs 22% small | NAIK"
-        },
-        {
-          "trend": "Diskon 50% Biaya Layanan E-Commerce untuk UMK (Mulai 25 Oktober 2026)",
-          "category": "E-commerce/UMKM ID",
-          "date": "2026-10-26",
-          "score": null,
-          "stage": "BARU",
-          "region": null,
-          "product": "FACT Kementerian UMKM (Kepmen No. 398/2026) via umkm.go.id & ukmindonesia.id | baru"
-        },
-        {
-          "trend": "Vertical AI Agents & Automated Workflow Ganti Horizontal SaaS",
-          "category": "AI/SaaS Global",
-          "date": "2026-10-26",
-          "score": null,
-          "stage": "STABIL",
-          "region": null,
-          "product": "FACT Deloitte 2026 & Skillgen 2.3x ROI vertical agents | STABIL"
-        },
-        {
-          "trend": "TikTok Shop Live & Affiliate Dominasi FMCG Indonesia (32% Pangsa Pasar)",
-          "category": "Creator Economy/Social Commerce",
-          "date": "2026-10-26",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT Magpie IQ & EchoTik 2026 Playbook | NAIK"
-        },
-        {
-          "trend": "Diskon 50% biaya layanan marketplace resmi jalan 25 Okt 2026, tapi wajib daftar SAPA UMKM plus 2 tahap verifikasi (platform maks 10 hari, insentif 5 hari), harus input daftar SKU satu-satu",
-          "category": "E-commerce/UMKM ID",
-          "date": "2026-10-29",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT Permen UMKM 3/2026 dan Kepmen UMKM 398/2026 via detik.com (20 Okt 2026); 42.000 seller lokal terdata (Kompas, 7 Okt 2026) | NAIK"
-        },
-        {
-          "trend": "Biaya jalanin AI agent turun drastis: GPT-6.1 Terra rilis plus harga API computer-use dipotong 50%",
-          "category": "AI/Agents Global",
-          "date": "2026-10-29",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT AI Agents News Brief 27 Okt 2026 (OpenAI, Microsoft Foundry, IBM, SAP Joule) | NAIK"
-        },
-        {
-          "trend": "Cuma 3,51% UMKM punya laporan keuangan layak buat ngajuin kredit; 77% yang sudah nyatat masih manual buku/nota",
-          "category": "Fintech/UMKM ID",
-          "date": "2026-10-29",
-          "score": null,
-          "stage": "STABIL",
-          "region": null,
-          "product": "FACT OJK UMKM Finance Summit Agu 2026 via majuapps.com; OCBC-NielsenIQ 2024; 39,3 juta UMKM pakai QRIS (BI semester I 2025) | STABIL"
-        },
-        {
-          "trend": "Patokan harga jasa otomasi buat bisnis kecil: setup USD1.500-5.000 sekali plus retainer USD500-1.500/bulan",
-          "category": "AI/SaaS Global",
-          "date": "2026-10-29",
-          "score": null,
-          "stage": "STABIL",
-          "region": null,
-          "product": "FACT taskip.net pricing guide (dicek 20 Okt 2026) | STABIL"
-        },
-        {
-          "trend": "Perang nama toko Shopee: kata \"official/resmi/authorized\" wajib HAKI Kelas 35 sejak 1 Sep 2026, gelombang peringatan masih jalan dan seller cuma dapat 5 hari buat reaksi",
-          "category": "E-commerce/Legalitas ID",
-          "date": "2026-10-30",
-          "score": null,
-          "stage": "BARU",
-          "region": null,
-          "product": "FACT FAQ Pelanggaran Nama Toko Shopee via ukmindonesia.id (29 Sep 2026) + bigseller.com (29 Okt 2026) | BARU"
-        },
-        {
-          "trend": "Biaya daftar merek turun jalur UMK: Rp500rb/kelas (PP 30/2026) vs Rp2,8 juta kelas umum, syarat surat rekomendasi",
-          "category": "Legalitas/UMKM ID",
-          "date": "2026-10-30",
-          "score": null,
-          "stage": "BARU",
-          "region": null,
-          "product": "FACT PP 30/2026 via panritalegal.com, cepatlegal.id, seremonia.id (Okt 2026) | BARU"
-        },
-        {
-          "trend": "Jendela SAPA UMKM: data ditarik marketplace tiap Jumat, submit sebelum Jumat 30 Okt 2026 = potongan 50% aktif paling lambat 14 Nov 2026",
-          "category": "E-commerce/UMKM ID",
-          "date": "2026-10-30",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT Kepmen UMKM 398/2026 via ukmindonesia.id (25 Okt 2026) | NAIK"
-        },
-        {
-          "trend": "AI agent pindah ke cloud: GitHub Copilot cloud sessions + Automations yang belajar dari hasil sejak 28 Okt 2026; Snowflake Cortex tambah kontrol reasoning",
-          "category": "AI/Agents Global",
-          "date": "2026-10-30",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT aiagentstore.ai AI Agents News (29 Okt 2026) | NAIK"
-        },
-        {
-          "trend": "Pasar \"AI receptionist\" buat bisnis kecil mulai sesak: pencarian Reddit r/smallbusiness didominasi iklan vendor (InferNex, Callxcel), bukan keluhan organik",
-          "category": "AI/SaaS Global",
-          "date": "2026-10-30",
-          "score": null,
-          "stage": "TURUN",
-          "region": null,
-          "product": "OBSERVED hasil pencarian site:reddit.com (30 Okt 2026); akses langsung Reddit/Threads diblokir | TURUN"
-        },
-        {
-          "trend": "Wajib halal UMK diundur ke 17 Okt 2028, plus Banpres Rp3 juta buat 112.849 usaha mikro korban bencana Aceh-Sumut-Sumbar cair pekan ini",
-          "category": "Regulasi/Kebencanaan ID",
-          "date": "2026-10-30",
-          "score": null,
-          "stage": "BARU",
-          "region": null,
-          "product": "FACT headline ukmindonesia.id + Kompas.com (28 Okt 2026), kumparan | BARU"
-        },
-        {
-          "trend": "Diskon minimal 50% biaya marketplace UMK masuk fase eksekusi, tetapi tidak otomatis dan wajib ajukan via SAPA UMKM",
-          "category": "E-commerce/UMKM ID",
-          "date": "2026-11-01",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT Kementerian UMKM + UKMIndonesia + hasil pencarian YouTube; kapasitas administrasi dan verifikasi tetap jadi hambatan | NAIK"
-        },
-        {
-          "trend": "AI agent vertikal untuk kerja operasional kecil tetap tumbuh, tetapi konten sosial didominasi promosi vendor, bukan keluhan organik",
-          "category": "AI/SaaS Global",
-          "date": "2026-11-01",
-          "score": null,
-          "stage": "STABIL",
-          "region": null,
-          "product": "FACT Deloitte 2026; OBSERVED LinkedIn/Reddit search; sinyal Threads/X terbatas karena akses langsung gagal | STABIL"
-        },
-        {
-          "trend": "Pembukuan UMKM lewat WhatsApp mulai ramai vendor lokal, menandakan solusi sudah tervalidasi tapi kompetisi meningkat",
-          "category": "Fintech/UMKM ID",
-          "date": "2026-11-01",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "OBSERVED hasil pencarian Krisnala, CatatWA, Super Kilat; kebutuhan lama pembukuan manual tetap relevan | NAIK"
-        },
-        {
-          "trend": "Rupiah tembus Rp18.147/USD dan IHSG jatuh 16,7% sepanjang Oktober 2026, konsumsi rumah tangga Q3 tertekan",
-          "category": "Makro/Daya Beli ID",
-          "date": "2026-11-02",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT bisnis.com 2 Nov 2026 (Rp18.147, -0,06%, prediksi 18.000-18.320 pekan ini); mediasaham (IHSG -16,7% Okt); Kontan 12 Okt 2026 (daya beli tertekan) | NAIK"
-        },
-        {
-          "trend": "PPh 22 0,5% dipungut marketplace sejak 1 Agu 2026 dan omzet digabung lintas platform, jadi ambang Rp500 juta gampang kelewat",
-          "category": "E-commerce/Pajak ID",
-          "date": "2026-11-02",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT PMK 37/2025 via pajak.go.id, ortax, kompas.id; keluhan seller soal dasar omzet bruto (persen.id 31 Jul 2026) | NAIK"
-        },
-        {
-          "trend": "Diskon 50% biaya marketplace sudah jalan tapi berubah jadi beban administrasi baru (SAPA UMKM, verifikasi sampai 15 hari kerja, input SKU) di tengah potongan total sampai 20% omzet",
-          "category": "E-commerce/UMKM ID",
-          "date": "2026-11-02",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT industry.co.id 2 Nov 2026 + beritasatu (potongan 20% omzet) + supersellerid (alur verifikasi) | NAIK"
-        },
-        {
-          "trend": "Reality check AI global: saham Alphabet anjlok 13% pada 29 Okt 2026 (terburuk sejak IPO 2004), investor tagih bukti untung investasi AI",
-          "category": "AI/SaaS Global",
-          "date": "2026-11-02",
-          "score": null,
-          "stage": "BARU",
-          "region": null,
-          "product": "FACT Kompas.com, IDNTimes, Medcom; Google Cloud naik 103% tapi biaya AI membengkak | BARU"
-        },
-        {
-          "trend": "Adopsi AI UMKM Indonesia 36,8 persen (survei Lalamove 300+ responden), tapi mayoritas baru dipakai buat konten dan marketing bukan operasional",
-          "category": "AI/UMKM ID",
-          "date": "2026-11-02",
-          "score": null,
-          "stage": "BARU",
-          "region": null,
-          "product": "FACT Lalamove Survei UMKM 2026 via tribunnews, inews, bisnis.com 27-28 Okt 2026 | BARU"
-        },
-        {
-          "trend": "Threads: seller minta cara jualan tanpa marketplace dan cari distributor harga miring; pemilik bisnis offline 14 tahun belum ketemu ritme jualan online",
-          "category": "E-commerce/Social ID",
-          "date": "2026-11-02",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "OBSERVED Threads tag #jualanonline #umkm #shopee (2 Nov 2026, via proxy baca); Reddit diblokir total | NAIK"
-        },
-        {
-          "trend": "Wajah kreator dipakai konten AI penipuan, PANDI gandeng Privy garap verifikasi identitas digital domain .id",
-          "category": "Creator Economy/Trust ID",
-          "date": "2026-11-02",
-          "score": null,
-          "stage": "BARU",
-          "region": null,
-          "product": "OBSERVED Medcom 31 Okt 2026 + Katadata 2 Nov 2026 | BARU"
-        },
-        {
-          "trend": "Otomasi berbasis aturan lebih masuk akal daripada AI agent untuk alur tetap: contoh 10.000 email USD20/bulan vs agent personalisasi USD200-800/bulan",
-          "category": "AI/SaaS Global",
-          "date": "2026-11-04",
-          "score": null,
-          "stage": "BARU",
-          "region": null,
-          "product": "FACT The Crunch, artikel diperbarui 16 Sep 2026; angka vendor, bukan audit independen | BARU"
-        },
-        {
-          "trend": "Diskon 50% biaya marketplace UMK tetap relevan, tetapi pencarian hari ini belum menemukan bukti baru soal hasil eksekusi atau keluhan penerima",
-          "category": "E-commerce/UMKM ID",
-          "date": "2026-11-04",
-          "score": null,
-          "stage": "STABIL",
-          "region": null,
-          "product": "FACT Bisnis.com soal program; OBSERVED sinyal baru web dan sosial terbatas | STABIL"
-        },
-        {
-          "trend": "Rupiah masih melemah tipis 8 poin ke Rp18.225/USD meski surplus perdagangan dirilis",
-          "category": "Makro/Daya Beli ID",
-          "date": "2026-11-04",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT ANTARA 4 Nov 2026 | NAIK"
-        },
-        {
-          "trend": "Threads tag UMKM dapat dimuat tetapi post nyata tidak terbaca; Reddit diblokir 403, X tidak terverifikasi",
-          "category": "Social signal",
-          "date": "2026-11-04",
-          "score": null,
-          "stage": "STABIL",
-          "region": null,
-          "product": "OBSERVED akses langsung 4 Nov 2026; sinyal sosial terbatas | STABIL"
-        },
-        {
-          "trend": "PPh Pasal 22 Otomatis di 4 Marketplace & Tekanan Rupiah Rp18.168/USD",
-          "category": "E-commerce/Fintech ID",
-          "date": "2026-11-05",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT Tirto, DDTC, Ortax, Kontan Nov 2026 | NAIK"
+          "product": "FACT Scrile, Ideaswiz, TikTok Bisnis"
         }
       ]
     }
