@@ -1,16 +1,16 @@
 {
   "data": {
-    "updated_at": "2026-11-07T09:01:54+07:00",
+    "updated_at": "2026-11-09T10:09:55+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 3 tren dalam trend memory. Kategori dominan: Creator Economy Global. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "summary": "Laporan harian terakhir tercatat: 6 tren dalam trend memory. Kategori dominan: E-commerce/UMKM/Fintech ID. Tren yang berulang (indikasi tren sejati): belum ada.",
     "top3": [],
     "insights": [],
     "regions": [],
     "products": [],
     "memory": {
       "stats": {
-        "total": 3,
-        "dominant": "Creator Economy Global",
+        "total": 6,
+        "dominant": "E-commerce/UMKM/Fintech ID",
         "repeating": []
       },
       "entries": [
@@ -40,6 +40,33 @@
           "stage": null,
           "region": null,
           "product": "FACT Scrile, Ideaswiz, TikTok Bisnis"
+        },
+        {
+          "trend": "AI agent untuk operasional SMB makin ramai, tetapi sinyal Reddit menekankan chatbot generik kurang bernilai dan bisnis butuh hasil yang terukur",
+          "category": "AI/SaaS Global",
+          "date": "2026-11-09",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT Salesforce, Google Cloud search result; OBSERVED Reddit search snippets | STABIL/NAIK"
+        },
+        {
+          "trend": "Otomasi pembukuan, pajak, inventory, dan follow-up UMKM tetap jadi peluang boring business; sinyal Indonesia hari ini terbatas karena pencarian Katadata/CNBC/DailySocial timeout",
+          "category": "E-commerce/UMKM/Fintech ID",
+          "date": "2026-11-09",
+          "score": null,
+          "stage": "STABIL",
+          "region": null,
+          "product": "FACT history 2026-11-07; OBSERVED search availability | STABIL"
+        },
+        {
+          "trend": "Sinyal X, Threads, dan scrape Reddit langsung terbatas karena Firecrawl localhost:3002 tidak aktif; Reddit hanya terpantau lewat hasil pencarian",
+          "category": "Social/Creator Economy",
+          "date": "2026-11-09",
+          "score": null,
+          "stage": null,
+          "region": null,
+          "product": "FACT tool result | TURUN/sinyal terbatas"
         }
       ]
     }
