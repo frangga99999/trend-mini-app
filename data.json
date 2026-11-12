@@ -1,72 +1,27 @@
 {
   "data": {
-    "updated_at": "2026-11-09T10:09:55+07:00",
+    "updated_at": "2026-11-12T09:03:01+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 6 tren dalam trend memory. Kategori dominan: E-commerce/UMKM/Fintech ID. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "summary": "Laporan harian terakhir tercatat: 1 tren dalam trend memory. Kategori dominan: AI/SaaS/E-commerce Global & ID. Tren yang berulang (indikasi tren sejati): belum ada.",
     "top3": [],
     "insights": [],
     "regions": [],
     "products": [],
     "memory": {
       "stats": {
-        "total": 6,
-        "dominant": "E-commerce/UMKM/Fintech ID",
+        "total": 1,
+        "dominant": "AI/SaaS/E-commerce Global & ID",
         "repeating": []
       },
       "entries": [
         {
-          "trend": "UMKM semua lini kena PPh 22 otomatis 0,5% per 1 Nov meski omzet < Rp500 juta mesti klaim sendiri, margin makin tipis, keluhan seller marketplace makin banyak soal administrasi; solusi pembukuan & perhitungan pajak otomatis makin dicari",
-          "category": "E-commerce/UMKM/Fintech ID",
-          "date": "2026-11-07",
+          "trend": "AI agent SaaS makin banyak diterapkan ke operasional bisnis nyata (bukan cuma buat marketing), model payment outcome-based makin dilirik di luar (tapi seat-based masih dominan di Indonesia), boring business automation kayak pembukuan dan follow-up masih jadi peluang. Sinyal UMKM/e-commerce Indonesia hari ini TERBATAS karena pencarian Katadata/CNBC/DailySocial timeout. Sinyal Reddit, Threads, X juga terbatas (Firecrawl mati).",
+          "category": "AI/SaaS/E-commerce Global & ID",
+          "date": "2026-11-12",
           "score": null,
-          "stage": "NAIK",
+          "stage": "BARU",
           "region": null,
-          "product": "FACT Katadata, swsconsulting.co.id, Pikiran Rakyat, Roshanimranlaw.com, laporan Reddit & TikTok: pelaku usaha kecil protes kejelasan, pilihan keluar marketplace makin ramai | NAIK"
-        },
-        {
-          "trend": "AI agent SaaS makin push ke SMB & operasional riil, bukan hype marketing, tapi adopsi global tetap didominasi promosi vendor bukan keluhan organik; model pembayaran outcome (berbasis hasil) pelan-pelan geser model subscription di luar negeri",
-          "category": "AI/SaaS Global/ID",
-          "date": "2026-11-07",
-          "score": null,
-          "stage": "STABIL",
-          "region": null,
-          "product": "FACT Deloitte, r/smallbusiness, laporan Reddit 2026 | STABIL"
-        },
-        {
-          "trend": "Creator Economy: AI bukan musuh kreator tapi jadi asisten operasional (bikin laporan, data engagement, riset produk/ide), tren \"boring business\" (pembukuan, update inventaris, laporan otomatis) makin naik value dibanding ide viral",
-          "category": "Creator Economy Global",
-          "date": "2026-11-07",
-          "score": null,
-          "stage": null,
-          "region": null,
-          "product": "FACT Scrile, Ideaswiz, TikTok Bisnis"
-        },
-        {
-          "trend": "AI agent untuk operasional SMB makin ramai, tetapi sinyal Reddit menekankan chatbot generik kurang bernilai dan bisnis butuh hasil yang terukur",
-          "category": "AI/SaaS Global",
-          "date": "2026-11-09",
-          "score": null,
-          "stage": "NAIK",
-          "region": null,
-          "product": "FACT Salesforce, Google Cloud search result; OBSERVED Reddit search snippets | STABIL/NAIK"
-        },
-        {
-          "trend": "Otomasi pembukuan, pajak, inventory, dan follow-up UMKM tetap jadi peluang boring business; sinyal Indonesia hari ini terbatas karena pencarian Katadata/CNBC/DailySocial timeout",
-          "category": "E-commerce/UMKM/Fintech ID",
-          "date": "2026-11-09",
-          "score": null,
-          "stage": "STABIL",
-          "region": null,
-          "product": "FACT history 2026-11-07; OBSERVED search availability | STABIL"
-        },
-        {
-          "trend": "Sinyal X, Threads, dan scrape Reddit langsung terbatas karena Firecrawl localhost:3002 tidak aktif; Reddit hanya terpantau lewat hasil pencarian",
-          "category": "Social/Creator Economy",
-          "date": "2026-11-09",
-          "score": null,
-          "stage": null,
-          "region": null,
-          "product": "FACT tool result | TURUN/sinyal terbatas"
+          "product": "FACT Deloitte, Futurepicker, SEARCH Reddit/TikTok/YouTube: sinyal diskusi terbatas | STABIL/baru"
         }
       ]
     }
