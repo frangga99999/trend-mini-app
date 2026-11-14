@@ -1,108 +1,23 @@
 {
   "data": {
-    "updated_at": "2026-11-13T09:21:10+07:00",
+    "updated_at": "2026-11-14T09:05:08+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 2 tren dalam trend memory. Kategori dominan: AI/SaaS/E-commerce Global & ID. Tren yang berulang (indikasi tren sejati): belum ada.",
-    "top3": [
+    "summary": "Laporan harian terakhir tercatat: 3 tren dalam trend memory. Kategori dominan: AI/SaaS/E-commerce Global & ID. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "top3": [],
+    "insights": [],
+    "regions": [
       {
-        "title": "AI agent SaaS",
-        "score": "8",
-        "momentum": "NAIK",
-        "global": null,
-        "indonesia": null,
-        "opportunity": "Semakin menjadi pilihan operasional bisnis nyata. 🔥 8/10 (NAIK)",
-        "sources": []
-      },
-      {
-        "title": "Model payment outcome",
-        "score": "7",
-        "momentum": "STABIL",
-        "global": null,
-        "indonesia": null,
-        "opportunity": "based**: Mulai sering diminati, meski masih banyak yang pakai seat-based. 🔥 7/10 (STABIL)",
-        "sources": []
-      },
-      {
-        "title": "Boring business automation",
-        "score": "8",
-        "momentum": "NAIK",
-        "global": null,
-        "indonesia": null,
-        "opportunity": "Penyelesaian seperti otomasi pembukuan dan follow-up masih tinggi peminatnya. 🔥 8/10 (NAIK)",
+        "region": "Indonesia vs Global",
+        "trend": "**Indonesia vs global:** Global lebih cepat menguji model bayar berdasarkan hasil. Indonesia lebih mudah dimasuki lewat jasa implementasi sederhana, integrasi WhatsApp, marketplace, spreadsheet, dan p",
+        "signal": null,
+        "opportunity": null,
         "sources": []
       }
     ],
-    "insights": [
-      {
-        "title": "AI agent SaaS",
-        "what": "Semakin menjadi pilihan operasional bisnis nyata. 🔥 8/10 (NAIK)",
-        "pain": null,
-        "target": null,
-        "existing": null,
-        "opportunity": "Semakin menjadi pilihan operasional bisnis nyata. 🔥 8/10 (NAIK)",
-        "opportunity_score": "8",
-        "sources": null
-      },
-      {
-        "title": "Model payment outcome",
-        "what": "based**: Mulai sering diminati, meski masih banyak yang pakai seat-based. 🔥 7/10 (STABIL)",
-        "pain": null,
-        "target": null,
-        "existing": null,
-        "opportunity": "based**: Mulai sering diminati, meski masih banyak yang pakai seat-based. 🔥 7/10 (STABIL)",
-        "opportunity_score": "7",
-        "sources": null
-      },
-      {
-        "title": "Boring business automation",
-        "what": "Penyelesaian seperti otomasi pembukuan dan follow-up masih tinggi peminatnya. 🔥 8/10 (NAIK)",
-        "pain": null,
-        "target": null,
-        "existing": null,
-        "opportunity": "Penyelesaian seperti otomasi pembukuan dan follow-up masih tinggi peminatnya. 🔥 8/10 (NAIK)",
-        "opportunity_score": "8",
-        "sources": null
-      }
-    ],
-    "regions": [],
-    "products": [
-      {
-        "title": "Otomasi Pembukuan",
-        "score": null,
-        "target": null,
-        "problem": "** Menyediakan software pembukuan yang otomatis, dibutuhkan UMKM, saat ini banyak yang masih manual. Biaya mulai sekitar Rp5 juta; perkiraan penghasilan dapat mencapai Rp15-25 juta per bulan. Verdict:",
-        "solution": null,
-        "mvp": "sekitar Rp5 juta; perkiraan penghasilan dapat mencapai Rp15-25 juta per bulan.",
-        "monetization": null,
-        "validation": "BUILD",
-        "sources": []
-      },
-      {
-        "title": "Chatbot AI untuk Bisnis",
-        "score": null,
-        "target": null,
-        "problem": "** Membuat chatbot yang benar-benar memahami konteks dan kebutuhan bisnis, dibutuhkan oleh bisnis kecil dan menengah. Biaya mulai Rp10 juta; pendapatan bisa sampai Rp20 juta per bulan. Verdict: VALIDA",
-        "solution": null,
-        "mvp": "Rp10 juta; pendapatan bisa sampai Rp20 juta per bulan.",
-        "monetization": null,
-        "validation": "VALIDATE FIRST",
-        "sources": []
-      },
-      {
-        "title": "Sistem Manajemen Pajak Otomatis",
-        "score": null,
-        "target": null,
-        "problem": "** Aplikasi yang membantu bisnis kecil menghitung pajak secara otomatis. Biaya mulai Rp5 juta; potensi penghasilan bisa sampai Rp10 juta per bulan. Verdict: BUILD.",
-        "solution": null,
-        "mvp": "Rp5 juta; potensi penghasilan bisa sampai Rp10 juta per bulan.",
-        "monetization": null,
-        "validation": "BUILD",
-        "sources": []
-      }
-    ],
+    "products": [],
     "memory": {
       "stats": {
-        "total": 2,
+        "total": 3,
         "dominant": "AI/SaaS/E-commerce Global & ID",
         "repeating": []
       },
@@ -124,6 +39,15 @@
           "stage": "BARU",
           "region": null,
           "product": "FACT Deloitte, Katadata/Google-Temasek-Bain; OBSERVED hasil pencarian Reddit dan YouTube; Threads/X terbatas karena Firecrawl mati | STABIL/NAIK/baru"
+        },
+        {
+          "trend": "AI agent operasional tetap kuat tetapi adopsi bisnis kecil tertinggal perusahaan besar; e-commerce tetap mesin utama ekonomi digital Indonesia, sementara keluhan seller soal biaya admin, COD, dan retur menguatkan peluang alat hitung laba serta otomasi operasional. Pembukuan via WhatsApp sudah memiliki pemain sehingga perlu diferensiasi vertikal.",
+          "category": "AI/SaaS/E-commerce Global & ID",
+          "date": "2026-11-14",
+          "score": null,
+          "stage": "BARU",
+          "region": null,
+          "product": "FACT McKinsey/Gartner dirangkum Gravity, Katadata/e-Conomy SEA, Detik/Kemendag; OBSERVED YouTube dan hasil pencarian produk lokal; Reddit, Threads, X terbatas karena Firecrawl mati/blokir | STABIL/NAIK/baru"
         }
       ]
     }
