@@ -1,23 +1,123 @@
 {
   "data": {
-    "updated_at": "2026-11-14T09:05:08+07:00",
+    "updated_at": "2026-11-16T11:17:48+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 3 tren dalam trend memory. Kategori dominan: AI/SaaS/E-commerce Global & ID. Tren yang berulang (indikasi tren sejati): belum ada.",
-    "top3": [],
-    "insights": [],
+    "summary": "Laporan harian terakhir tercatat: 4 tren dalam trend memory. Kategori dominan: AI/SaaS/E-commerce Global & ID. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "top3": [
+      {
+        "title": "AI rame di HP, sepi di kantor",
+        "score": "9",
+        "momentum": "NAIK",
+        "global": null,
+        "indonesia": null,
+        "opportunity": "162 juta pengguna AI/bulan dan 69 miliar kueri setahun, tapi 80% beban kerjanya konsumen; adopsi di perusahaan cuma ~15% dan cuma 1–2% orang yang bayar langganan AI.",
+        "sources": []
+      },
+      {
+        "title": "Jualan lewat live & video jadi jalur utama",
+        "score": "8",
+        "momentum": "NAIK",
+        "global": null,
+        "indonesia": null,
+        "opportunity": "transaksi live +95% dan video pendek +130% year-on-year (kuartal III-2026, ekosistem Tokopedia–TikTok Shop); seller mikro di program #BeliLokal naik 60%, fashion lewat afiliasi +65%.",
+        "sources": []
+      },
+      {
+        "title": "Margin seller makin tipis",
+        "score": "8",
+        "momentum": "STABIL",
+        "global": null,
+        "indonesia": null,
+        "opportunity": "fee marketplace (hitungan pihak ketiga: admin Shopee flat 10%) plus biaya retur yang dibebankan ke seller sejak 1 Juni 2026, plus COD & retur nakal. Peredam: pemerintah kasih potongan merchant fee 50% buat UMKM produk lokal sejak 1 Agustus 2026.",
+        "sources": []
+      }
+    ],
+    "insights": [
+      {
+        "title": "AI rame di HP, sepi di kantor",
+        "what": "162 juta pengguna AI/bulan dan 69 miliar kueri setahun, tapi 80% beban kerjanya konsumen; adopsi di perusahaan cuma ~15% dan cuma 1–2% orang yang bayar langganan AI.",
+        "pain": null,
+        "target": null,
+        "existing": null,
+        "opportunity": "162 juta pengguna AI/bulan dan 69 miliar kueri setahun, tapi 80% beban kerjanya konsumen; adopsi di perusahaan cuma ~15% dan cuma 1–2% orang yang bayar langganan AI.",
+        "opportunity_score": "9",
+        "sources": null
+      },
+      {
+        "title": "Jualan lewat live & video jadi jalur utama",
+        "what": "transaksi live +95% dan video pendek +130% year-on-year (kuartal III-2026, ekosistem Tokopedia–TikTok Shop); seller mikro di program #BeliLokal naik 60%, fashion lewat afiliasi +65%.",
+        "pain": null,
+        "target": null,
+        "existing": null,
+        "opportunity": "transaksi live +95% dan video pendek +130% year-on-year (kuartal III-2026, ekosistem Tokopedia–TikTok Shop); seller mikro di program #BeliLokal naik 60%, fashion lewat afiliasi +65%.",
+        "opportunity_score": "8",
+        "sources": null
+      },
+      {
+        "title": "Margin seller makin tipis",
+        "what": "fee marketplace (hitungan pihak ketiga: admin Shopee flat 10%) plus biaya retur yang dibebankan ke seller sejak 1 Juni 2026, plus COD & retur nakal. Peredam: pemerintah kasih potongan merchant fee 50% buat UMKM produk lokal sejak 1 Agustus 2026.",
+        "pain": null,
+        "target": null,
+        "existing": null,
+        "opportunity": "fee marketplace (hitungan pihak ketiga: admin Shopee flat 10%) plus biaya retur yang dibebankan ke seller sejak 1 Juni 2026, plus COD & retur nakal. Peredam: pemerintah kasih potongan merchant fee 50% buat UMKM produk lokal sejak 1 Agustus 2026.",
+        "opportunity_score": "8",
+        "sources": null
+      }
+    ],
     "regions": [
       {
         "region": "Indonesia vs Global",
-        "trend": "**Indonesia vs global:** Global lebih cepat menguji model bayar berdasarkan hasil. Indonesia lebih mudah dimasuki lewat jasa implementasi sederhana, integrasi WhatsApp, marketplace, spreadsheet, dan p",
+        "trend": "**🇮🇩 Indonesia vs Global:** Global sudah masuk fase \"agent dipakai buat kerja\" — 75% pengguna Asia Tenggara mau nyerahin tugas multi-langkah ke agent AI, dan pendanaan agent vertikal masih deras (Merc",
+        "signal": null,
+        "opportunity": null,
+        "sources": []
+      },
+      {
+        "region": "Indonesia vs Global",
+        "trend": "Indonesia vs Global dari sisi kesiapan: pengguna AI kita paling banyak di kawasan tapi paling \"dangkal\" — token per orang cuma ~10% level AS, adopsi perusahaan 15%, yang bayar langganan AI 1–2%. Kompe",
         "signal": null,
         "opportunity": null,
         "sources": []
       }
     ],
-    "products": [],
+    "products": [
+      {
+        "title": "Ruang Laba Seller",
+        "score": null,
+        "target": null,
+        "problem": "kalkulator laba per SKU yang sudah dipotong fee Shopee/TikTok Shop, ongkos retur, dan iklan, plus kasih harga jual minimum. Masalah yang dipecahkan: seller jualan laris tapi nggak sadar tipis. Yang bu",
+        "solution": null,
+        "mvp": "Rp2–5 juta (bangun sendiri, no-code + LLM).",
+        "monetization": "150–250 pelanggan × Rp149rb ≈ Rp22–37 juta/bulan (PERKIRAAN kasar, belum diuji).",
+        "validation": "BUILD",
+        "sources": []
+      },
+      {
+        "title": "Jasa \"Beressin Agent AI\"",
+        "score": null,
+        "target": null,
+        "problem": "bukan jual chatbot, tapi jasa bikin SATU alur kerja beneran jalan (contoh: follow-up quotation, rekap harian, balas komplain) plus monitoring dan laporan mingguan. Masalah: 8 dari 9 pilot agent mati d",
+        "solution": null,
+        "mvp": "nyaris nol (skill + biaya API), yang mahal waktu.",
+        "monetization": "3 klien retainer ≈ Rp4,5–9 juta/bulan; 6 klien ≈ Rp9–18 juta (PERKIRAAN).",
+        "validation": "BUILD",
+        "sources": []
+      },
+      {
+        "title": "Buku Kas WhatsApp siap Coretax",
+        "score": null,
+        "target": null,
+        "problem": "foto struk / chat \"jual 250rb\" → auto jadi catatan omzet bulanan + rekap PPh final 0,5% + reminder SPT. Masalah: data nggak rapi, panik tiap lapor. Yang butuh: UMKM omzet di bawah Rp4,8 miliar/tahun, ",
+        "solution": null,
+        "mvp": "Rp3–6 juta.",
+        "monetization": "300 user × Rp99rb ≈ Rp30 juta/bulan (PERKIRAAN).",
+        "validation": "WATCH",
+        "sources": []
+      }
+    ],
     "memory": {
       "stats": {
-        "total": 3,
+        "total": 4,
         "dominant": "AI/SaaS/E-commerce Global & ID",
         "repeating": []
       },
@@ -48,6 +148,15 @@
           "stage": "BARU",
           "region": null,
           "product": "FACT McKinsey/Gartner dirangkum Gravity, Katadata/e-Conomy SEA, Detik/Kemendag; OBSERVED YouTube dan hasil pencarian produk lokal; Reddit, Threads, X terbatas karena Firecrawl mati/blokir | STABIL/NAIK/baru"
+        },
+        {
+          "trend": "e-Conomy SEA 2026 (dipaparkan 11 Nov): ekonomi digital RI US$119 miliar (+16%), e-commerce US$85 miliar, media online +28% paling cepat; Indonesia 162 juta pengguna AI/bulan terbanyak di ASEAN tapi ~80% pemakaian konsumen dan hanya ~15% perusahaan (token/orang ~10% level AS, 1-2%% berlangganan) -> celah implementasi AI untuk bisnis kecil. Video commerce meledak: transaksi live +95%%, video pendek +130%% (Q3-2026, Tokopedia-TikTok Shop). Tekanan margin seller berlanjut (fee admin, biaya retur sejak Juni 2026, retur COD) dengan peredam insentif merchant fee 50%% untuk UMKM lokal sejak 1 Agt 2026. Pilot AI agent gagal 86-89%% (rangkuman McKinsey/Gartner) karena integrasi, konsistensi output, monitoring, ownership.",
+          "category": "AI/SaaS/E-commerce Global & ID",
+          "date": "2026-11-16",
+          "score": null,
+          "stage": "NAIK",
+          "region": null,
+          "product": "FACT e-Conomy SEA 2026 via Kompas/Merakit, Marketing.co.id/IDN Times, Bisnis.com, Kemendag via X; OBSERVED riset 160 post r/smallbusiness (IdeaFast), harga AI agent lokal Rp199rb-Rp15jt (Co.Labs); Threads & Reddit live scrape GAGAL (Firecrawl mati), X hanya via snippet | NAIK"
         }
       ]
     }
