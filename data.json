@@ -1,8 +1,8 @@
 {
   "data": {
-    "updated_at": "2026-11-16T11:17:48+07:00",
+    "updated_at": "2026-11-17T15:04:30+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 4 tren dalam trend memory. Kategori dominan: AI/SaaS/E-commerce Global & ID. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "summary": "Laporan harian terakhir tercatat: 5 tren dalam trend memory. Kategori dominan: AI/SaaS/E-commerce Global & ID. Tren yang berulang (indikasi tren sejati): belum ada.",
     "top3": [
       {
         "title": "AI rame di HP, sepi di kantor",
@@ -28,7 +28,7 @@
         "momentum": "STABIL",
         "global": null,
         "indonesia": null,
-        "opportunity": "fee marketplace (hitungan pihak ketiga: admin Shopee flat 10%) plus biaya retur yang dibebankan ke seller sejak 1 Juni 2026, plus COD & retur nakal. Peredam: pemerintah kasih potongan merchant fee 50% buat UMKM produk lokal sejak 1 Agustus 2026.",
+        "opportunity": "fee marketplace (hitungan pihak ketiga: admin Shopee flat 10%) plus ongkos retur yang dibebankan ke seller sejak 1 Juni 2026, plus COD & retur nakal. Peredam: pemerintah kasih potongan merchant fee 50% buat UMKM produk lokal sejak 1 Agustus 2026.",
         "sources": []
       }
     ],
@@ -55,11 +55,11 @@
       },
       {
         "title": "Margin seller makin tipis",
-        "what": "fee marketplace (hitungan pihak ketiga: admin Shopee flat 10%) plus biaya retur yang dibebankan ke seller sejak 1 Juni 2026, plus COD & retur nakal. Peredam: pemerintah kasih potongan merchant fee 50% buat UMKM produk lokal sejak 1 Agustus 2026.",
+        "what": "fee marketplace (hitungan pihak ketiga: admin Shopee flat 10%) plus ongkos retur yang dibebankan ke seller sejak 1 Juni 2026, plus COD & retur nakal. Peredam: pemerintah kasih potongan merchant fee 50% buat UMKM produk lokal sejak 1 Agustus 2026.",
         "pain": null,
         "target": null,
         "existing": null,
-        "opportunity": "fee marketplace (hitungan pihak ketiga: admin Shopee flat 10%) plus biaya retur yang dibebankan ke seller sejak 1 Juni 2026, plus COD & retur nakal. Peredam: pemerintah kasih potongan merchant fee 50% buat UMKM produk lokal sejak 1 Agustus 2026.",
+        "opportunity": "fee marketplace (hitungan pihak ketiga: admin Shopee flat 10%) plus ongkos retur yang dibebankan ke seller sejak 1 Juni 2026, plus COD & retur nakal. Peredam: pemerintah kasih potongan merchant fee 50% buat UMKM produk lokal sejak 1 Agustus 2026.",
         "opportunity_score": "8",
         "sources": null
       }
@@ -117,7 +117,7 @@
     ],
     "memory": {
       "stats": {
-        "total": 4,
+        "total": 5,
         "dominant": "AI/SaaS/E-commerce Global & ID",
         "repeating": []
       },
@@ -150,13 +150,22 @@
           "product": "FACT McKinsey/Gartner dirangkum Gravity, Katadata/e-Conomy SEA, Detik/Kemendag; OBSERVED YouTube dan hasil pencarian produk lokal; Reddit, Threads, X terbatas karena Firecrawl mati/blokir | STABIL/NAIK/baru"
         },
         {
-          "trend": "e-Conomy SEA 2026 (dipaparkan 11 Nov): ekonomi digital RI US$119 miliar (+16%), e-commerce US$85 miliar, media online +28% paling cepat; Indonesia 162 juta pengguna AI/bulan terbanyak di ASEAN tapi ~80% pemakaian konsumen dan hanya ~15% perusahaan (token/orang ~10% level AS, 1-2%% berlangganan) -> celah implementasi AI untuk bisnis kecil. Video commerce meledak: transaksi live +95%%, video pendek +130%% (Q3-2026, Tokopedia-TikTok Shop). Tekanan margin seller berlanjut (fee admin, biaya retur sejak Juni 2026, retur COD) dengan peredam insentif merchant fee 50%% untuk UMKM lokal sejak 1 Agt 2026. Pilot AI agent gagal 86-89%% (rangkuman McKinsey/Gartner) karena integrasi, konsistensi output, monitoring, ownership.",
+          "trend": "e-Conomy SEA 2026 (dipaparkan 11 Nov): ekonomi digital RI US$119 miliar (+16%), e-commerce US$85 miliar, media online +28% paling cepat; Indonesia 162 juta pengguna AI/bulan terbanyak di ASEAN tapi ~80% pemakaian konsumen dan hanya ~15% perusahaan (token/orang ~10% level AS, 1-2% berlangganan) -> celah implementasi AI untuk bisnis kecil. Video commerce meledak: transaksi live +95%, video pendek +130% (Q3-2026, Tokopedia-TikTok Shop). Tekanan margin seller berlanjut (fee admin, biaya retur sejak Juni 2026, retur COD) dengan peredam insentif merchant fee 50% untuk UMKM lokal sejak 1 Agt 2026. Pilot AI agent gagal 86-89% (rangkuman McKinsey/Gartner) karena integrasi, konsistensi output, monitoring, ownership.",
           "category": "AI/SaaS/E-commerce Global & ID",
           "date": "2026-11-16",
           "score": null,
           "stage": "NAIK",
           "region": null,
           "product": "FACT e-Conomy SEA 2026 via Kompas/Merakit, Marketing.co.id/IDN Times, Bisnis.com, Kemendag via X; OBSERVED riset 160 post r/smallbusiness (IdeaFast), harga AI agent lokal Rp199rb-Rp15jt (Co.Labs); Threads & Reddit live scrape GAGAL (Firecrawl mati), X hanya via snippet | NAIK"
+        },
+        {
+          "trend": "AI agent operasional tetap kuat tetapi integrasi sistem menjadi hambatan nyata; tekanan margin seller marketplace bertahan meski potongan biaya minimal 50% untuk UMK lokal sudah berlaku; peluang baru UMKM lintas ASEAN menguat setelah DEFA membuka akses potensial ke 693 juta konsumen, sehingga lokalisasi katalog, kepatuhan, dan operasi ekspor kecil layak divalidasi.",
+          "category": "AI/SaaS/E-commerce/UMKM ASEAN",
+          "date": "2026-11-17",
+          "score": null,
+          "stage": "BARU",
+          "region": null,
+          "product": "FACT Deloitte, Republika/HSBC, Kompas/ANTARA, Investor.id; OBSERVED snippet TikTok seller dan Reddit pembukuan; Threads, Reddit live, X terbatas karena Firecrawl mati | NAIK/baru"
         }
       ]
     }
