@@ -1,123 +1,119 @@
 {
   "data": {
-    "updated_at": "2026-11-17T15:04:30+07:00",
+    "updated_at": "2026-11-21T13:49:19+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 5 tren dalam trend memory. Kategori dominan: AI/SaaS/E-commerce Global & ID. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "summary": "Laporan harian terakhir tercatat: 6 tren dalam trend memory. Kategori dominan: AI/SaaS/E-commerce Global & ID. Tren yang berulang (indikasi tren sejati): belum ada.",
     "top3": [
       {
-        "title": "AI rame di HP, sepi di kantor",
+        "title": "AI Agent operasional",
         "score": "9",
-        "momentum": "NAIK",
-        "global": null,
-        "indonesia": null,
-        "opportunity": "162 juta pengguna AI/bulan dan 69 miliar kueri setahun, tapi 80% beban kerjanya konsumen; adopsi di perusahaan cuma ~15% dan cuma 1–2% orang yang bayar langganan AI.",
-        "sources": []
-      },
-      {
-        "title": "Jualan lewat live & video jadi jalur utama",
-        "score": "8",
-        "momentum": "NAIK",
-        "global": null,
-        "indonesia": null,
-        "opportunity": "transaksi live +95% dan video pendek +130% year-on-year (kuartal III-2026, ekosistem Tokopedia–TikTok Shop); seller mikro di program #BeliLokal naik 60%, fashion lewat afiliasi +65%.",
-        "sources": []
-      },
-      {
-        "title": "Margin seller makin tipis",
-        "score": "8",
         "momentum": "STABIL",
         "global": null,
         "indonesia": null,
-        "opportunity": "fee marketplace (hitungan pihak ketiga: admin Shopee flat 10%) plus ongkos retur yang dibebankan ke seller sejak 1 Juni 2026, plus COD & retur nakal. Peredam: pemerintah kasih potongan merchant fee 50% buat UMKM produk lokal sejak 1 Agustus 2026.",
+        "opportunity": "** Dengan kemampuan self-service bisnis, ini mendorong otomasi manajemen. 🔥 9/10, **STABIL**.",
+        "sources": []
+      },
+      {
+        "title": "TikTok e",
+        "score": "8",
+        "momentum": "NAIK",
+        "global": null,
+        "indonesia": null,
+        "opportunity": "commerce hub:** TikTok Shop makin kuat jadi saluran belanja interaktif. 🔥 8/10, **NAIK**.",
+        "sources": []
+      },
+      {
+        "title": "Partnership TikTok x GoTo",
+        "score": "8",
+        "momentum": "NAIK",
+        "global": null,
+        "indonesia": null,
+        "opportunity": "** Fokus membantu UMKM lewat integrasi platform besar. 🔥 8/10, **NAIK**.",
         "sources": []
       }
     ],
     "insights": [
       {
-        "title": "AI rame di HP, sepi di kantor",
-        "what": "162 juta pengguna AI/bulan dan 69 miliar kueri setahun, tapi 80% beban kerjanya konsumen; adopsi di perusahaan cuma ~15% dan cuma 1–2% orang yang bayar langganan AI.",
+        "title": "AI Agent operasional",
+        "what": "** Dengan kemampuan self-service bisnis, ini mendorong otomasi manajemen. 🔥 9/10, **STABIL**.",
         "pain": null,
         "target": null,
         "existing": null,
-        "opportunity": "162 juta pengguna AI/bulan dan 69 miliar kueri setahun, tapi 80% beban kerjanya konsumen; adopsi di perusahaan cuma ~15% dan cuma 1–2% orang yang bayar langganan AI.",
+        "opportunity": "** Dengan kemampuan self-service bisnis, ini mendorong otomasi manajemen. 🔥 9/10, **STABIL**.",
         "opportunity_score": "9",
         "sources": null
       },
       {
-        "title": "Jualan lewat live & video jadi jalur utama",
-        "what": "transaksi live +95% dan video pendek +130% year-on-year (kuartal III-2026, ekosistem Tokopedia–TikTok Shop); seller mikro di program #BeliLokal naik 60%, fashion lewat afiliasi +65%.",
+        "title": "TikTok e",
+        "what": "commerce hub:** TikTok Shop makin kuat jadi saluran belanja interaktif. 🔥 8/10, **NAIK**.",
         "pain": null,
         "target": null,
         "existing": null,
-        "opportunity": "transaksi live +95% dan video pendek +130% year-on-year (kuartal III-2026, ekosistem Tokopedia–TikTok Shop); seller mikro di program #BeliLokal naik 60%, fashion lewat afiliasi +65%.",
+        "opportunity": "commerce hub:** TikTok Shop makin kuat jadi saluran belanja interaktif. 🔥 8/10, **NAIK**.",
         "opportunity_score": "8",
         "sources": null
       },
       {
-        "title": "Margin seller makin tipis",
-        "what": "fee marketplace (hitungan pihak ketiga: admin Shopee flat 10%) plus ongkos retur yang dibebankan ke seller sejak 1 Juni 2026, plus COD & retur nakal. Peredam: pemerintah kasih potongan merchant fee 50% buat UMKM produk lokal sejak 1 Agustus 2026.",
+        "title": "Partnership TikTok x GoTo",
+        "what": "** Fokus membantu UMKM lewat integrasi platform besar. 🔥 8/10, **NAIK**.",
         "pain": null,
         "target": null,
         "existing": null,
-        "opportunity": "fee marketplace (hitungan pihak ketiga: admin Shopee flat 10%) plus ongkos retur yang dibebankan ke seller sejak 1 Juni 2026, plus COD & retur nakal. Peredam: pemerintah kasih potongan merchant fee 50% buat UMKM produk lokal sejak 1 Agustus 2026.",
+        "opportunity": "** Fokus membantu UMKM lewat integrasi platform besar. 🔥 8/10, **NAIK**.",
         "opportunity_score": "8",
         "sources": null
       }
     ],
-    "regions": [
-      {
-        "region": "Indonesia vs Global",
-        "trend": "**🇮🇩 Indonesia vs Global:** Global sudah masuk fase \"agent dipakai buat kerja\" — 75% pengguna Asia Tenggara mau nyerahin tugas multi-langkah ke agent AI, dan pendanaan agent vertikal masih deras (Merc",
-        "signal": null,
-        "opportunity": null,
-        "sources": []
-      },
-      {
-        "region": "Indonesia vs Global",
-        "trend": "Indonesia vs Global dari sisi kesiapan: pengguna AI kita paling banyak di kawasan tapi paling \"dangkal\" — token per orang cuma ~10% level AS, adopsi perusahaan 15%, yang bayar langganan AI 1–2%. Kompe",
-        "signal": null,
-        "opportunity": null,
-        "sources": []
-      }
-    ],
+    "regions": [],
     "products": [
       {
-        "title": "Ruang Laba Seller",
+        "title": "Biaya admin dan retur di marketplace bikin seller buntung. (TikTok).",
         "score": null,
         "target": null,
-        "problem": "kalkulator laba per SKU yang sudah dipotong fee Shopee/TikTok Shop, ongkos retur, dan iklan, plus kasih harga jual minimum. Masalah yang dipecahkan: seller jualan laris tapi nggak sadar tipis. Yang bu",
+        "problem": null,
         "solution": null,
-        "mvp": "Rp2–5 juta (bangun sendiri, no-code + LLM).",
-        "monetization": "150–250 pelanggan × Rp149rb ≈ Rp22–37 juta/bulan (PERKIRAAN kasar, belum diuji).",
+        "mvp": null,
+        "monetization": null,
+        "validation": null,
+        "sources": []
+      },
+      {
+        "title": "Alat estimasi biaya",
+        "score": null,
+        "target": null,
+        "problem": "retur:** Untuk UMKM di marketplace, bantu menghitung marginnya. **Biaya mulai:** Rp10 juta (app/software ringan). **Penghasilan:** ~Rp50 juta/bulan via subscription. **Verdict:** VALIDATE FIRST.",
+        "solution": null,
+        "mvp": "** Rp10 juta (app/software ringan). **Penghasilan:** ~Rp50 juta/bulan via subscription. **",
+        "monetization": null,
+        "validation": "VALIDATE FIRST",
+        "sources": []
+      },
+      {
+        "title": "Tempat kursus online AI khusus bisnis kecil sederhana",
+        "score": null,
+        "target": null,
+        "problem": "** Fokus otomasi stok/laporan. **Biaya mulai:** Rp50 juta (konten/kelas). **Penghasilan:** ~Rp100 juta/bulan dari kursus Rp500 ribu/orang. **Verdict:** BUILD.",
+        "solution": null,
+        "mvp": "** Rp50 juta (konten/kelas). **Penghasilan:** ~Rp100 juta/bulan dari kursus Rp500 ribu/orang. **",
+        "monetization": null,
         "validation": "BUILD",
         "sources": []
       },
       {
-        "title": "Jasa \"Beressin Agent AI\"",
+        "title": "Platform matchmaking fintech UMKM lokal",
         "score": null,
         "target": null,
-        "problem": "bukan jual chatbot, tapi jasa bikin SATU alur kerja beneran jalan (contoh: follow-up quotation, rekap harian, balas komplain) plus monitoring dan laporan mingguan. Masalah: 8 dari 9 pilot agent mati d",
+        "problem": "** Fokus optimasi akses pinjaman kecil. **Biaya mulai:** Rp200 juta (platform). **Penghasilan:** Fee berbasis volume. **Verdict:** VALIDATE FIRST.",
         "solution": null,
-        "mvp": "nyaris nol (skill + biaya API), yang mahal waktu.",
-        "monetization": "3 klien retainer ≈ Rp4,5–9 juta/bulan; 6 klien ≈ Rp9–18 juta (PERKIRAAN).",
-        "validation": "BUILD",
-        "sources": []
-      },
-      {
-        "title": "Buku Kas WhatsApp siap Coretax",
-        "score": null,
-        "target": null,
-        "problem": "foto struk / chat \"jual 250rb\" → auto jadi catatan omzet bulanan + rekap PPh final 0,5% + reminder SPT. Masalah: data nggak rapi, panik tiap lapor. Yang butuh: UMKM omzet di bawah Rp4,8 miliar/tahun, ",
-        "solution": null,
-        "mvp": "Rp3–6 juta.",
-        "monetization": "300 user × Rp99rb ≈ Rp30 juta/bulan (PERKIRAAN).",
-        "validation": "WATCH",
+        "mvp": "** Rp200 juta (platform). **Penghasilan:** Fee berbasis volume. **",
+        "monetization": null,
+        "validation": "VALIDATE FIRST",
         "sources": []
       }
     ],
     "memory": {
       "stats": {
-        "total": 5,
+        "total": 6,
         "dominant": "AI/SaaS/E-commerce Global & ID",
         "repeating": []
       },
@@ -166,6 +162,15 @@
           "stage": "BARU",
           "region": null,
           "product": "FACT Deloitte, Republika/HSBC, Kompas/ANTARA, Investor.id; OBSERVED snippet TikTok seller dan Reddit pembukuan; Threads, Reddit live, X terbatas karena Firecrawl mati | NAIK/baru"
+        },
+        {
+          "trend": "Harbolnas 12.12 menaikkan kebutuhan alat hitung laba promo dan operasi pesanan seller; Threads memperlihatkan permintaan penemuan UMKM lokal berbasis lokasi, menu, harga, dan kesiapan kirim serta seller yang mencari akses pembeli; AI agent global makin masuk pekerjaan perusahaan tetapi peluang Indonesia tetap pada otomasi sempit yang terukur, bukan chatbot generik.",
+          "category": "E-commerce/UMKM/AI operasional Global & ID",
+          "date": "2026-11-21",
+          "score": null,
+          "stage": "STABIL",
+          "region": null,
+          "product": "FACT Marketing.co.id, Kompas/e-Conomy SEA, AI Agents Directory; OBSERVED Threads tag umkm dan jualanonline; Reddit live dan X terbatas karena blokir/login, Firecrawl mati | NAIK/baru/STABIL"
         }
       ]
     }
