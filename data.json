@@ -1,119 +1,55 @@
 {
   "data": {
-    "updated_at": "2026-11-21T13:49:19+07:00",
+    "updated_at": "2026-11-25T17:26:17+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 6 tren dalam trend memory. Kategori dominan: AI/SaaS/E-commerce Global & ID. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "summary": "Laporan harian terakhir tercatat: 7 tren dalam trend memory. Kategori dominan: AI/SaaS/E-commerce Global & ID. Tren yang berulang (indikasi tren sejati): belum ada.",
     "top3": [
       {
-        "title": "AI Agent operasional",
-        "score": "9",
+        "title": "AI operasional bisnis (otomasi, pembukuan, hitung untung) 🔥 8/10 | STABIL (FACT",
+        "score": "8",
         "momentum": "STABIL",
         "global": null,
         "indonesia": null,
-        "opportunity": "** Dengan kemampuan self-service bisnis, ini mendorong otomasi manajemen. 🔥 9/10, **STABIL**.",
+        "opportunity": "Google/berita bisnis)",
         "sources": []
       },
       {
-        "title": "TikTok e",
-        "score": "8",
+        "title": "Permintaan solusi admin/report/manual boring bisnis UMKM 🔥 7/10 | NAIK (OBSERVED",
+        "score": "7",
         "momentum": "NAIK",
         "global": null,
         "indonesia": null,
-        "opportunity": "commerce hub:** TikTok Shop makin kuat jadi saluran belanja interaktif. 🔥 8/10, **NAIK**.",
-        "sources": []
-      },
-      {
-        "title": "Partnership TikTok x GoTo",
-        "score": "8",
-        "momentum": "NAIK",
-        "global": null,
-        "indonesia": null,
-        "opportunity": "** Fokus membantu UMKM lewat integrasi platform besar. 🔥 8/10, **NAIK**.",
+        "opportunity": "tren global masuk Indonesia pelan-pelan)",
         "sources": []
       }
     ],
     "insights": [
       {
-        "title": "AI Agent operasional",
-        "what": "** Dengan kemampuan self-service bisnis, ini mendorong otomasi manajemen. 🔥 9/10, **STABIL**.",
+        "title": "AI operasional bisnis (otomasi, pembukuan, hitung untung) 🔥 8/10 | STABIL (FACT",
+        "what": "Google/berita bisnis)",
         "pain": null,
         "target": null,
         "existing": null,
-        "opportunity": "** Dengan kemampuan self-service bisnis, ini mendorong otomasi manajemen. 🔥 9/10, **STABIL**.",
-        "opportunity_score": "9",
-        "sources": null
-      },
-      {
-        "title": "TikTok e",
-        "what": "commerce hub:** TikTok Shop makin kuat jadi saluran belanja interaktif. 🔥 8/10, **NAIK**.",
-        "pain": null,
-        "target": null,
-        "existing": null,
-        "opportunity": "commerce hub:** TikTok Shop makin kuat jadi saluran belanja interaktif. 🔥 8/10, **NAIK**.",
+        "opportunity": "Google/berita bisnis)",
         "opportunity_score": "8",
         "sources": null
       },
       {
-        "title": "Partnership TikTok x GoTo",
-        "what": "** Fokus membantu UMKM lewat integrasi platform besar. 🔥 8/10, **NAIK**.",
+        "title": "Permintaan solusi admin/report/manual boring bisnis UMKM 🔥 7/10 | NAIK (OBSERVED",
+        "what": "tren global masuk Indonesia pelan-pelan)",
         "pain": null,
         "target": null,
         "existing": null,
-        "opportunity": "** Fokus membantu UMKM lewat integrasi platform besar. 🔥 8/10, **NAIK**.",
-        "opportunity_score": "8",
+        "opportunity": "tren global masuk Indonesia pelan-pelan)",
+        "opportunity_score": "7",
         "sources": null
       }
     ],
     "regions": [],
-    "products": [
-      {
-        "title": "Biaya admin dan retur di marketplace bikin seller buntung. (TikTok).",
-        "score": null,
-        "target": null,
-        "problem": null,
-        "solution": null,
-        "mvp": null,
-        "monetization": null,
-        "validation": null,
-        "sources": []
-      },
-      {
-        "title": "Alat estimasi biaya",
-        "score": null,
-        "target": null,
-        "problem": "retur:** Untuk UMKM di marketplace, bantu menghitung marginnya. **Biaya mulai:** Rp10 juta (app/software ringan). **Penghasilan:** ~Rp50 juta/bulan via subscription. **Verdict:** VALIDATE FIRST.",
-        "solution": null,
-        "mvp": "** Rp10 juta (app/software ringan). **Penghasilan:** ~Rp50 juta/bulan via subscription. **",
-        "monetization": null,
-        "validation": "VALIDATE FIRST",
-        "sources": []
-      },
-      {
-        "title": "Tempat kursus online AI khusus bisnis kecil sederhana",
-        "score": null,
-        "target": null,
-        "problem": "** Fokus otomasi stok/laporan. **Biaya mulai:** Rp50 juta (konten/kelas). **Penghasilan:** ~Rp100 juta/bulan dari kursus Rp500 ribu/orang. **Verdict:** BUILD.",
-        "solution": null,
-        "mvp": "** Rp50 juta (konten/kelas). **Penghasilan:** ~Rp100 juta/bulan dari kursus Rp500 ribu/orang. **",
-        "monetization": null,
-        "validation": "BUILD",
-        "sources": []
-      },
-      {
-        "title": "Platform matchmaking fintech UMKM lokal",
-        "score": null,
-        "target": null,
-        "problem": "** Fokus optimasi akses pinjaman kecil. **Biaya mulai:** Rp200 juta (platform). **Penghasilan:** Fee berbasis volume. **Verdict:** VALIDATE FIRST.",
-        "solution": null,
-        "mvp": "** Rp200 juta (platform). **Penghasilan:** Fee berbasis volume. **",
-        "monetization": null,
-        "validation": "VALIDATE FIRST",
-        "sources": []
-      }
-    ],
+    "products": [],
     "memory": {
       "stats": {
-        "total": 6,
+        "total": 7,
         "dominant": "AI/SaaS/E-commerce Global & ID",
         "repeating": []
       },
@@ -171,6 +107,15 @@
           "stage": "STABIL",
           "region": null,
           "product": "FACT Marketing.co.id, Kompas/e-Conomy SEA, AI Agents Directory; OBSERVED Threads tag umkm dan jualanonline; Reddit live dan X terbatas karena blokir/login, Firecrawl mati | NAIK/baru/STABIL"
+        },
+        {
+          "trend": "AI agent enterprise naik tajam secara global dan mayoritas pemakaian kini berasal dari agen yang mengerjakan tugas; di Indonesia peluang paling dekat tetap otomasi sempit dengan hasil terukur. Menjelang Harbolnas 10-16 Desember, kebutuhan seller bergeser ke hitung laba setelah diskon/iklan/fee, kesiapan stok-CS-packing, serta evaluasi retur. Resepsionis AI layak divalidasi untuk bisnis jasa yang sering kehilangan telepon, tetapi jangan dibangun sebagai produk generik.",
+          "category": "AI agents/E-commerce/UMKM operasional Global & ID",
+          "date": "2026-11-25",
+          "score": null,
+          "stage": "BARU",
+          "region": null,
+          "product": "FACT Menlo Ventures, Remarketing.id, Growth100X; OBSERVED Threads tag umkm hanya menampilkan volume 5,5 juta tanpa post, Reddit dan X terbatas karena blokir, Firecrawl mati | NAIK/STABIL/baru"
         }
       ]
     }
