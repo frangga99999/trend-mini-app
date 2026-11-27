@@ -1,82 +1,68 @@
 {
   "data": {
-    "updated_at": "2026-11-26T11:12:57+07:00",
+    "updated_at": "2026-11-27T19:29:30+07:00",
     "summary_title": "Ringkasan Tren Hari Ini",
-    "summary": "Laporan harian terakhir tercatat: 8 tren dalam trend memory. Kategori dominan: AI/SaaS/E-commerce Global & ID. Tren yang berulang (indikasi tren sejati): belum ada.",
-    "top3": [
-      {
-        "title": "AI yang mengerjakan tugas operasional",
-        "score": "9",
-        "momentum": "NAIK",
-        "global": null,
-        "indonesia": null,
-        "opportunity": "🔥 9/10 — NAIK**",
-        "sources": []
-      },
-      {
-        "title": "Persiapan Harbolnas berbasis laba, bukan diskon",
-        "score": "8",
-        "momentum": "NAIK",
-        "global": null,
-        "indonesia": null,
-        "opportunity": "🔥 8/10 — NAIK**",
-        "sources": []
-      },
-      {
-        "title": "Resepsionis AI untuk bisnis jasa lokal",
-        "score": "7",
-        "momentum": "BARU",
-        "global": null,
-        "indonesia": null,
-        "opportunity": "🔥 7/10 — BARU**",
-        "sources": []
-      }
-    ],
-    "insights": [
-      {
-        "title": "AI yang mengerjakan tugas operasional",
-        "what": "🔥 9/10 — NAIK**",
-        "pain": null,
-        "target": null,
-        "existing": null,
-        "opportunity": "🔥 9/10 — NAIK**",
-        "opportunity_score": "9",
-        "sources": null
-      },
-      {
-        "title": "Persiapan Harbolnas berbasis laba, bukan diskon",
-        "what": "🔥 8/10 — NAIK**",
-        "pain": null,
-        "target": null,
-        "existing": null,
-        "opportunity": "🔥 8/10 — NAIK**",
-        "opportunity_score": "8",
-        "sources": null
-      },
-      {
-        "title": "Resepsionis AI untuk bisnis jasa lokal",
-        "what": "🔥 7/10 — BARU**",
-        "pain": null,
-        "target": null,
-        "existing": null,
-        "opportunity": "🔥 7/10 — BARU**",
-        "opportunity_score": "7",
-        "sources": null
-      }
-    ],
+    "summary": "Laporan harian terakhir tercatat: 9 tren dalam trend memory. Kategori dominan: AI/SaaS/E-commerce Global & ID. Tren yang berulang (indikasi tren sejati): belum ada.",
+    "top3": [],
+    "insights": [],
     "regions": [
       {
         "region": "Indonesia vs Global",
-        "trend": "**FACT:** Menlo memperkirakan belanja penerapan AI perusahaan global mencapai US$176,8 miliar pada 2026, naik 5,4 kali; agen menghasilkan 80% pemakaian di OpenRouter. **Global vs Indonesia:** perusaha",
+        "trend": "- **🇮🇩 Indonesia vs global:** Di global, vendor SaaS mengejar agent yang bisa menjalankan tugas dan model layanan berbasis hasil. Di Indonesia, celah yang lebih dekat adalah bantu seller menyatukan an",
         "signal": null,
         "opportunity": null,
         "sources": []
       }
     ],
-    "products": [],
+    "products": [
+      {
+        "title": "🥇 **Administrasi pajak dan laba seller marketplace",
+        "score": null,
+        "target": null,
+        "problem": "PPh 22 dan berbagai biaya membuat seller perlu tahu berapa uang bersih yang benar-benar tersisa. 🔥 **9/10 — baru**",
+        "solution": null,
+        "mvp": null,
+        "monetization": null,
+        "validation": null,
+        "sources": []
+      },
+      {
+        "title": "Kalkulator laba bersih seller",
+        "score": null,
+        "target": null,
+        "problem": "Menghitung harga pokok, diskon, biaya marketplace, iklan, dan pajak dalam satu ringkasan. Dibutuhkan seller kecil-menengah; sekarang banyak yang mengandalkan spreadsheet atau hitung manual. Mulai seba",
+        "solution": null,
+        "mvp": "** rendah jika dibuat sendiri. **Potensi kasar:** ratusan ribu hingga beberapa juta rupiah per bulan jika ada puluhan pelanggan berbayar; estimasi, bu",
+        "monetization": null,
+        "validation": null,
+        "sources": []
+      },
+      {
+        "title": "Jasa rapikan administrasi marketplace",
+        "score": null,
+        "target": null,
+        "problem": "Membantu seller cek dokumen, memahami status pengecualian pajak, dan merapikan laporan transaksi; bukan memberi nasihat pajak resmi. Seller sekarang biasanya mengurus sendiri atau minta bantuan akunta",
+        "solution": null,
+        "mvp": "** rendah, tapi perlu ketelitian dan batas layanan yang jelas. **Potensi kasar:** beberapa klien rutin bisa memberi pendapatan sampingan jutaan rupiah",
+        "monetization": null,
+        "validation": "VALIDATE FIRST",
+        "sources": []
+      },
+      {
+        "title": "Laporan penjualan otomatis lintas kanal",
+        "score": null,
+        "target": null,
+        "problem": "Mengurangi salin-tempel pesanan dan rekonsiliasi manual untuk seller multikanal. Mulai dari unggah ekspor CSV dan hasilkan ringkasan mingguan; uang dari langganan atau biaya setup. **Biaya mulai:** re",
+        "solution": null,
+        "mvp": "** rendah-menengah jika membangun integrasi. **Potensi kasar:** dari nol hingga beberapa juta rupiah per bulan saat awal, sangat bergantung pada kemud",
+        "monetization": null,
+        "validation": null,
+        "sources": []
+      }
+    ],
     "memory": {
       "stats": {
-        "total": 8,
+        "total": 9,
         "dominant": "AI/SaaS/E-commerce Global & ID",
         "repeating": []
       },
@@ -152,6 +138,15 @@
           "stage": "STABIL",
           "region": null,
           "product": "FACT DJP, Shopee Seller Education, Deloitte, DailySocial; OBSERVED Reddit soal pembukuan manual dan X soal kebingungan pajak; Threads dan Reddit live terbatas karena Firecrawl mati | baru/NAIK/STABIL"
+        },
+        {
+          "trend": "Persiapan Harbolnas 10-16 Desember dan target transaksi Rp40 triliun menjaga kebutuhan hitung margin, stok, iklan, serta rekonsiliasi fee-pajak tetap tinggi. PPh 22 marketplace memperkuat peluang layanan dokumen dan dashboard laba bersih seller. AI agent global tetap kuat, tetapi peluang Indonesia paling masuk akal berupa otomasi operasional sempit dan terukur; chatbot generik tetap lemah.",
+          "category": "Harbolnas/Pajak marketplace/AI operasional Global & ID",
+          "date": "2026-11-27",
+          "score": null,
+          "stage": "STABIL",
+          "region": null,
+          "product": "FACT Marketing.co.id, DJP, Deloitte; OBSERVED YouTube soal hitung margin dan Reddit terindeks soal pembukuan/inventory spreadsheet; Reddit live, Threads, dan X terbatas karena Firecrawl mati/blokir | NAIK/NAIK/STABIL"
         }
       ]
     }
